@@ -69,6 +69,7 @@ Along with increased age, severe hearing loss among aged people exacerbates prob
 ### Identify areas of social & mobile theory
 When there's a sudden tech revolution, you have to unlearn what you've already learned, which takes more time than learning about something new from scratch. This phenomenon is especially true for people over 50 because around that age the brain starts to lose plasticity (the ability to form and change neural connections into new ones).Therefore, aging people slowly start losing touch with new technology. Missed many opportunities to meet new friends, sharing memories, get new information and life online, and enjoy the convenience and joy of technology.
 This app can make aging people to sharing their music, memories, and life to others. Let the elderly have their cyberspace to meet individuals with the same hobbies, or to pass on their favorite music to others.
+
 Reference List:
 Su Mi Dahlgaard Park,2015 http://dx.doi.org.ezproxy.library.uq.edu.au/10.4135/9781483346366 |
 
@@ -123,6 +124,18 @@ The default naming convention for all the files would be :TEAMNAME_XXX
 * Project phases e.g. research; requirements; design; construction;
 * Key deliverables for each phase (Milestones);
 * Resources – equipment or other tools/people you might need. 
+
+Project Phase | Description | Key  Deliverables | DeadLine
+--------------|-------------|-------------------|----------
+Research|Online Literature,Meeting elders in local community centre ,Questionnaire|Survey,interview results, data collected from online search|End of week 7
+Requirements|Interface Design,functional design|Drawings and Diagrams |End of Week 8
+Design|Low-fedility Prototype, Testing,Evaluation|testing and evaluation results , recommended changes|End of Week 9
+Construction|Developing app|Interface|End of Week 10
+
+
+
+
+
 ### Research
 Through reading related literature online, searching in the library and operating existing popular music applications on the smart phone, we will analyze the functions, interfaces, interactions and target crowds of these popular apps. Because the elderly generally has some perceived deficiencies or obstacles compared with young people, our job is to discover the shortcomings of current apps when focusing on elderly as well as the difficulties the elderly might have while listening to music (i.e. visual and auditory).
 ### Requirements
