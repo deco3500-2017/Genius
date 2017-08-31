@@ -10,52 +10,46 @@ your idea is diferent from / improves upon other current oferings. Identify area
 that apply to, will inform your concept & approach.
 
 ### Idea
-Many young people use their different kind of music APPs to share their favorite music or some art form, for example, iTunes, music box, Spotify so on. They enjoy and share a wide variety of music, share their own lives. Young people learn and master new technology quickly and easily, they are keen to understand new things.
-However, technology is accelerating at an extreme pace, and the seniors can't keep up. So found the way to make aging people enjoy the technology as the first question for our group.
-At the same time, we also consider the aging people have more life experience means more knowledge, practice, and experience to draw on. So base on this idea, we decided to design a simple, easy to use APP for aging to use and share traditional music and operas with their own stories, photos, different topics, and emotions. Older people can enjoy the convenience of science and technology, at the same time, this APP would seeking hints of music or art forms that could disappear as change continues.
-### Project aims&Audience
+Many young people use their different kind of music APPs to share their favorite music or some art form, for example, iTunes, music box, Spotify and so on. They enjoy and share a wide variety of music, share their own lives. Young people learn and master new technology quickly and easily, they are keen to understand new things.
+However, technology is accelerating at an extreme pace, and the seniors can't keep up. So finding the way to make aging people enjoy the technology is the first question for our group.
+At the same time, we also consider the aging people have more life experience means more knowledge, practice, and experience to draw on. So based on this idea, we decided to design a simple, easy to use app for aging to use and share traditional music and operas with their own stories, photos, different topics, and emotions. Older people can also enjoy the convenience of science and technology, at the same time, this app would seeking hints of music or art forms that could disappear as change continues.
+### Project aims & Audience
 Our target audience is age from 60 to 100 years old people who have a rich life experience, happy to share music and their stories and experiences with young people and their peers. The target audience also could be keen on the inheritance and continuation of music.
-The goal of this project is to develop a music, life, and memories sharing software for the elderly. This APP uses voice control function and simple use of the interface to facilitate the utilization of the elderly so that the aging people could feel the fun and convenience of the technology.
+The goal of this project is to develop a music, life, and memories sharing software for the elderly. This app uses voice control function and simple use of the interface to facilitate the utilization of the elderly so that the aging people could feel the fun and convenience of the technology.
+
 ### Emotion design
-Emotional design is a term popularised by Don Norman to explain why "attractive things work better” to address the criticism of his previous book that he was advocating(Su Mi Dahlgaard Park,2015) .
-All design is emotional, but by focusing on personal concern/values and meaning, designers intend to evoke targeted emotions by taking directed design decisions. We are not able to design the emotion in itself, therefore it is common practice to talk about 'design for emotion'. We create the context in which emotions are elicited.e but ugly' products.
-
-
-In our interface design,we focus on emotion design,the reasons are the following:
-Nostalgic style
+Emotional design is a term popularised by Don Norman to explain why "attractive things work better” to address the criticism of his previous book that he was advocating(Su Mi Dahlgaard Park,2015).
+All design is emotional, but by focusing on personal concern/values and meaning, designers intend to evoke targeted emotions by taking directed design decisions. We are not able to create the emotion in itself; therefore it is common practice to talk about 'design for emotion.' We create the context in which emotions are elicited.e but ugly' products.In our interface design,we focus on emotion design,the reasons are the following:
+ - Nostalgic style
 Our target group is aging people, they might have lots of experienced in their life.so the nostalgic style to resonate their conditions,mirroring aspects of memory.
-Usage habits
+ - Usage habits
 This product design mode of operation,as much as possible uses the functions/interface that aging people are familiar with.
 
-
-
-
 ### Innovation
-- Target group
+* Target groups
 According to our research, In the 18 months starting July 2008, when Apple updated the iOS to support native apps, and ending in January 2010, nearly 150,000 apps were released. That's around 275 apps per day. In so many massive amounts of mobile phone software, music software accounted for 40% of the number (live wire,2010).In this 40% of the software inside, most of the design groups are for young people. For example iTunes, For you, Tidal, Spotify and so on. And for the elderly involved in the software is only has 1%. So our innovation is to target the group for the aging people.
-- Sharing anything with music
+* Sharing anything with music
 This app is a music app, but also could share the anything you want with music. Such as photos, stories, a piece of voice messages or others.
-- Voice control
+* Voice control
 Aging people are difficult to learn and accept new technology, so to make the elderly more convenient to use the software. We used the voice control when designing the software. So that the aging people in the utilization of the software when it is not necessary to type. This function is increasing user experience.
-- Upload own song
+*	Upload own song
 The user could share any songs/operas on this app. At the same time, the user also could upload own songs and rearrange the songs with other users.
-- Unique emoji function
+* Unique emoji function
 Consider the poor, elderly eyesight; we add the emoji function. When the user clicks the different big emoji form, the app will provide the different music depending on options selected by users, at the same time, the phone vibrates during in every time selected emoji form by users.For example：
-           ：pleasant music
- 	：Sad music
- 	：Nature sounds
+
+[pic]：pleasant music
+[pic]：Sad music
+[pic]：Nature sounds
  
-- Mobile buzzes function
-- The phone will autumnally vibrate following the music beats.
-- If the user selected any options, the phone would vibrate to remind the user selected the options success.
-- The speaker phone function
-Along with increased age, severe hearing loss among aged people exacerbates problems in their daily life. Therefore, we add a speakerphone function on the APP, so the user would easily hear the music.
+* Mobile buzzes function
+  * The phone will autumnally vibrate following the music beats.
+  * If the user selected any options, the phone would vibrate to remind the user selected the options success.
+* The speaker phone function
+  * Along with increased age, severe hearing loss among aged people exacerbates problems in their daily life. Therefore, we add a speakerphone function on the APP, so the user would easily hear the music.
+
 ### Identify areas of social & mobile theory
 When there's a sudden tech revolution, you have to unlearn what you've already learned, which takes more time than learning about something new from scratch. This phenomenon is especially true for people over 50 because around that age the brain starts to lose plasticity (the ability to form and change neural connections into new ones).Therefore, aging people slowly start losing touch with new technology. Missed many opportunities to meet new friends, sharing memories, get new information and life online, and enjoy the convenience and joy of technology.
 This app can make aging people to sharing their music, memories, and life to others. Let the elderly have their cyberspace to meet individuals with the same hobbies, or to pass on their favorite music to others.
-Reference List:
-Su Mi Dahlgaard Park,2015 http://dx.doi.org.ezproxy.library.uq.edu.au/10.4135/9781483346366 |
-
 
 ## Team
 Who is on your team, what are their responsibilities, and how will you work together? List all the
@@ -117,6 +111,8 @@ As research result shows and requirements gathered, the design process should fo
 The last process is to make high-fidelity prototype on phone’s screen by utilizing web tools like InVision. The sequence of construction is similar as the designing step, but the content is more accurate and detailed. For example, in vertical prototyping, the whole process of one function would be displayed logically, meanwhile the aesthetic effect would also be better. We will definitely have several times of iteration to improve the app based on using tests, self-reflection and tutorial feedback.
 ### Key deliverables for each phase (Milestones)
 In research, the milestone is graphic representations which may include pie charts for research, and it would probably last for 3-4 days; The result of requirements may be personas, scenarios, storyboards or flow charts for concluding initial requirements. It would take nearly 1 week to be accomplished; The design step would possibly take 2 weeks and finally be in the form of paper prototype; The rest of project’s time would be taken for construction step and the final version of digital high-fidelity prototype.
+
+
 ### Resources
 * Equipment
   * Computers are needed for early research, graphic design and structure construction. Smart phones are going to be used for utility tests and internal effect display. Equipment with camera or photographic functions would be utilized in the late period for observation, interview or other using tests. Except cameras, other device will be used in the whole process of this program.
@@ -124,7 +120,7 @@ In research, the milestone is graphic representations which may include pie char
   * A group of elderly, no matter they like music or not, would possibly participate our utility tests. We may intend to find old groups in Brisbane City, welfare homes and even make our relatives as participants. This step would between the period of second and last iteration of prototyping work, and we would make some changes according to the feedback we received.
 
 ## Tags
- #mobile ##emotional_design #social #Technology_for_elders #ageing
+ #mobile #HumanReactions #coordination #Emotionaldesign #social #TechnologyForElders #ageing #Affect
 ## Reference List
 Su Mi Dahlgaard Park,2015 http://dx.doi.org.ezproxy.library.uq.edu.au/10.4135/9781483346366 
 
