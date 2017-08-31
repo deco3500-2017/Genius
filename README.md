@@ -23,7 +23,8 @@ The goal of this project is to develop a music, life, and memories sharing softw
 Emotional design is a term popularised by Don Norman to explain why "attractive things work better” to address the criticism of his previous book that he was advocating(Su Mi Dahlgaard Park,2015) .
 
 All design is emotional, but by focusing on personal concern/values and meaning, designers intend to evoke targeted emotions by taking directed design decisions. We are not able to design the emotion in itself, therefore it is common practice to talk about 'design for emotion'. We create the context in which emotions are elicited.e but ugly' products.
-(http://i.imgur.com/sC9Fdae.png)
+
+![Kiku](http://i.imgur.com/sC9Fdae.png)
 
 
 In our interface design,we focus on emotion design,the reasons are the following:
