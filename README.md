@@ -82,13 +82,13 @@ members and their course code. Identify:
 * How will decisions be made;
 * How will the team handle poor performance and resolve conflicts. 
 
-Name | Student Number | Course Code
+Name | Student Number | Course Code|Role
 ------------ | ------------- | ------------
-Bhawna Soi | 44726382 | DECO7350
-Lu Cao | 45034097 | DECO7350
-Jiayu Gao | 44460381 | DECO7350
-Xiaoxin Wang | 44091673 | DECO3500
-Reginald Ho | 44018157 | DECO3500
+Bhawna Soi | 44726382 | DECO7350|Team Leader,Front End Developer,Back End Developer
+Lu Cao | 45034097 | DECO7350|Designer
+Jiayu Gao | 44460381 | DECO7350|Content Designer
+Xiaoxin Wang | 44091673 | DECO3500|Content Designer
+Reginald Ho | 44018157 | DECO3500|backend|
 
 It is hard to decide who is the best suitable person to become the leader to lead the team due to everyone has their own personality and ability, we finally have decided Bhawna to undertake the position. Since she has the longest study life than rest of the teammates, we have decided to let her become the leader and manage the project. We believed it is the best decision and she will lead the team successfully. 
 
@@ -133,6 +133,7 @@ As research result shows and requirements gathered, the design process should fo
 The last process is to make high-fidelity prototype on phone’s screen by utilizing web tools like InVision. The sequence of construction is similar as the designing step, but the content is more accurate and detailed. For example, in vertical prototyping, the whole process of one function would be displayed logically, meanwhile the aesthetic effect would also be better. We will definitely have several times of iteration to improve the app based on using tests, self-reflection and tutorial feedback.
 ### Key deliverables for each phase (Milestones)
 In research, the milestone is graphic representations which may include pie charts for research, and it would probably last for 3-4 days; The result of requirements may be personas, scenarios, storyboards or flow charts for concluding initial requirements. It would take nearly 1 week to be accomplished; The design step would possibly take 2 weeks and finally be in the form of paper prototype; The rest of project’s time would be taken for construction step and the final version of digital high-fidelity prototype.
+
 ### Resources
 * Equipment
   * Computers are needed for early research, graphic design and structure construction. Smart phones are going to be used for utility tests and internal effect display. Equipment with camera or photographic functions would be utilized in the late period for observation, interview or other using tests. Except cameras, other device will be used in the whole process of this program.
