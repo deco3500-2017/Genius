@@ -10,12 +10,12 @@ your idea is diferent from / improves upon other current oferings. Identify area
 that apply to, will inform your concept & approach.
 
 ### Idea
-Many young people use their different kind of music APPs to share their favorite music or some art form, for example, iTunes, music box, Spotify so on. They enjoy and share a wide variety of music, share their own lives. Young people learn and master new technology quickly and easily, they are keen to understand new things.
+Many young people use their different kind of music APPs to share their favorite music or some art form, for example, iTunes, music box, Spotify and so on. They enjoy and share a wide variety of music, share their own lives. Young people learn and master new technology quickly and easily, they are keen to understand new things.
 
-However, technology is accelerating at an extreme pace, and the seniors can't keep up. So found the way to make aging people enjoy the technology as the first question for our group.
+However, technology is accelerating at an extreme pace, and the seniors can't keep up. So finding the way to make aging people enjoy the technology is the first question for our group.
 
-At the same time, we also consider the aging people have more life experience means more knowledge, practice, and experience to draw on. So base on this idea, we decided to design a simple, easy to use APP for aging to use and share traditional music and operas with their own stories, photos, different topics, and emotions. Older people can enjoy the convenience of science and technology, at the same time, this APP would seeking hints of music or art forms that could disappear as change continues.
-### Project aims&Audience
+At the same time, we also consider the aging people have more life experience means more knowledge, practice, and experience to draw on. So based on this idea, we decided to design a simple, easy to use app for aging to use and share traditional music and operas with their own stories, photos, different topics, and emotions. Older people can also enjoy the convenience of science and technology, at the same time, this app would seeking hints of music or art forms that could disappear as change continues.
+### Project aims & Audience
 Our target audience is age from 60 to 100 years old people who have a rich life experience, happy to share music and their stories and experiences with young people and their peers. The target audience also could be keen on the inheritance and continuation of music.
 
 The goal of this project is to develop a music, life, and memories sharing software for the elderly. This APP uses voice control function and simple use of the interface to facilitate the utilization of the elderly so that the aging people could feel the fun and convenience of the technology.
@@ -37,7 +37,7 @@ This product design mode of operation,as much as possible uses the functions/int
 
 
 ### Innovation
-- Target group
+- Target groups
 
 According to our research, In the 18 months starting July 2008, when Apple updated the iOS to support native apps, and ending in January 2010, nearly 150,000 apps were released. That's around 275 apps per day. In so many massive amounts of mobile phone software, music software accounted for 40% of the number (live wire,2010).In this 40% of the software inside, most of the design groups are for young people. For example iTunes, For you, Tidal, Spotify and so on. And for the elderly involved in the software is only has 1%. So our innovation is to target the group for the aging people.
 - Sharing anything with music
@@ -138,7 +138,7 @@ In research, the milestone is graphic representations which may include pie char
   * A group of elderly, no matter they like music or not, would possibly participate our utility tests. We may intend to find old groups in Brisbane City, welfare homes and even make our relatives as participants. This step would between the period of second and last iteration of prototyping work, and we would make some changes according to the feedback we received.
 
 ## Tags
- #mobile ##emotional_design #social #Technology_for_elders #ageing
+#mobile #HumanReactions #coordination #Emotionaldesign #social #TechnologyForElders #ageing #Affect
 ## Reference List
 Su Mi Dahlgaard Park,2015 http://dx.doi.org.ezproxy.library.uq.edu.au/10.4135/9781483346366 
 
