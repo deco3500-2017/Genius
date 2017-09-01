@@ -5,9 +5,9 @@ Music offers a multitude of benefits for people of every age , particularly for 
 
 ## Concept 
 ### Idea
-####Persona 
-![persona1](https://commons.wikimedia.org/wiki/File:Markpersona.png)
-![Persona2](https://commons.wikimedia.org/wiki/File:JudiPersona.png)
+##Persona
+(https://commons.wikimedia.org/wiki/File:Markpersona.png)!
+(https://commons.wikimedia.org/wiki/File:JudiPersona.png)!
 Many young people use their different kind of music APPs to share their favorite music or some art form, for example, iTunes, music box, Spotify and so on. They enjoy and share a wide variety of music, share their own lives. Young people learn and master new technology quickly and easily, they are keen to understand new things.
 
 However, technology is accelerating at an extreme pace, and the seniors can't keep up. So finding the way to make aging people enjoy the technology is the first question for our group.
