@@ -103,21 +103,12 @@ Whenever poor performance happens in the team, we will have a group meeting and 
 The default naming convention for all the files would be :TEAMNAME_XXX
 
 ## Plan
- Identify the key tasks that need to be completed and when. Identify:
-* Project phases e.g. research; requirements; design; construction;
-* Key deliverables for each phase (Milestones);
-* Resources – equipment or other tools/people you might need. 
-
 Project Phase | Description | Key  Deliverables | DeadLine
 --------------|-------------|-------------------|----------
 Research|Online Literature,Meeting elders in local community centre ,Questionnaire|Survey,interview results, data collected from online search|End of week 7
 Requirements|Interface Design,functional design|Drawings and Diagrams |End of Week 8
 Design|Low-fedility Prototype, Testing,Evaluation|testing and evaluation results , recommended changes|End of Week 9
 Construction|Developing app|Interface|End of Week 10
-
-
-
-
 
 ### Research
 Through reading related literature online, searching in the library and operating existing popular music applications on the smart phone, we will analyze the functions, interfaces, interactions and target crowds of these popular apps. Because the elderly generally has some perceived deficiencies or obstacles compared with young people, our job is to discover the shortcomings of current apps when focusing on elderly as well as the difficulties the elderly might have while listening to music (i.e. visual and auditory).
