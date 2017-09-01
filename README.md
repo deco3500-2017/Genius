@@ -134,6 +134,6 @@ In research, the milestone is graphic representations which may include pie char
 ## Tags
 #musicForElders #mobile #HumanReactions #coordination  #affect #Emotionaldesign #social #TechnologyForElders #aging 
 ## Reference List
-Su Mi Dahlgaard Park,2015 http://dx.doi.org.ezproxy.library.uq.edu.au/10.4135/9781483346366 
+Su Mi Dahlgaard Park,2015 http://dx.doi.org.ezproxy.library.uq.edu.au/10.4135/9781483346366 |
 Lifewire,2010 https://www.lifewire.com/how-many-apps-in-app-store-2000252
 
