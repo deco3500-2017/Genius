@@ -63,11 +63,6 @@ Along with increased age, severe hearing loss among aged people exacerbates prob
 ### Identify areas of social & mobile theory
 When there's a sudden tech revolution, you have to unlearn what you've already learned, which takes more time than learning about something new from scratch. This phenomenon is especially true for people over 50 because around that age the brain starts to lose plasticity (the ability to form and change neural connections into new ones).Therefore, aging people slowly start losing touch with new technology. Missed many opportunities to meet new friends, sharing memories, get new information and life online, and enjoy the convenience and joy of technology.
 This app can make aging people to sharing their music, memories, and life to others. Let the elderly have their cyberspace to meet individuals with the same hobbies, or to pass on their favorite music to others.
-
-Reference List:
-Su Mi Dahlgaard Park,2015 http://dx.doi.org.ezproxy.library.uq.edu.au/10.4135/9781483346366 |
-
-
 ## Team
 ### Our Team
 Name | Student Number | Course Code|Role
@@ -131,6 +126,5 @@ In research, the milestone is graphic representations which may include pie char
 #mobile #HumanReactions #coordination #Emotionaldesign #social #TechnologyForElders #ageing #Affect
 ## Reference List
 Su Mi Dahlgaard Park,2015 http://dx.doi.org.ezproxy.library.uq.edu.au/10.4135/9781483346366 
-
 Lifewire,2010 https://www.lifewire.com/how-many-apps-in-app-store-2000252
 
