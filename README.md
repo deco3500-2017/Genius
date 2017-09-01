@@ -95,7 +95,7 @@ Whenever poor performance happens in the team, we will have a group meeting and 
 * Slack would be used as well,sice it's not mobile and less convinience comparing with Facebook message.Because all the DECO2800 tutors are on slack which it is useful for the team to seek help from tutors and to solve problems,the Slack is considered as secondary communication channels.
 * Google drive and Github would be used as support tool for sharing resources online and since it will have record for each one's contribution and the team can identify the current project easily from the records and adjust the workload.Also,Google drive and Github allowing multiple people working on the same document at the same time which can improve the team efficiency dreamatically.
 ### Naming Convention
-The default naming convention for all the files would be :TEAMNAME_XXX
+The default naming convention for all the files would be :TEAMNAME_XXX.Team members should use this format when creating or submitting the files to keep the consistency of work.
 
 ## Plan
 Project Phase | Description | Key  Deliverables | DeadLine
