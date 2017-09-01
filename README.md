@@ -5,12 +5,12 @@ Music offers a multitude of benefits for people of every age , particularly for 
 
 ## Concept 
 
-###Persona
+### Persona
+ 
 
-![bhawna](https://commons.wikimedia.org/wiki/File:Markpersona.png)
-![two](https://commons.wikimedia.org/wiki/File:JudiPersona.png)
+![two](https://upload.wikimedia.org/wikipedia/commons/2/2c/Markpersona.png)
 
-###Idea
+### Idea
 Many young people use their different kind of music APPs to share their favorite music or some art form, for example, iTunes, music box, Spotify and so on. They enjoy and share a wide variety of music, share their own lives. Young people learn and master new technology quickly and easily, they are keen to understand new things.
 
 However, technology is accelerating at an extreme pace, and the seniors can't keep up. So finding the way to make aging people enjoy the technology is the first question for our group.
@@ -21,6 +21,7 @@ Our target audience are the seniors with rich lif experience at a wide age range
 
 The goal of this project is to develop a music, life, and memories sharing software for the elderly. This APP uses voice control function and simple use of the interface to facilitate the utilization of the elderly so that the aging people could feel the fun and convenience of the technology.Also, big title and big text are also considered when designing the application.Based on the observation in daily life,plenty of the seniors are sufferring presbyopia when they are getting older.
 ### Emotion design
+
 Emotional design is a term popularised by Don Norman to explain why "attractive things work better” to address the criticism of his previous book that he was advocating(Su Mi Dahlgaard Park,2015) .
 
 All design is emotional, but by focusing on personal concern/values and meaning, designers intend to evoke targeted emotions by taking directed design decisions. We are not able to design the emotion in itself, therefore it is common practice to talk about 'design for emotion'. We create the context in which emotions are elicited.e but ugly' products.
