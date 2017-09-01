@@ -1,14 +1,8 @@
 # Team Genuis Proposal
 ## Introduction
-What is your project and what dilemma does it aim to address. 
-
 Music offers a multitude of benefits for people of every age , particularly for the elderly population . It works as a therapy to increase memory function, relax the body , reduce muscle tension and boost productivity. Our idea is to create a music app especially for elders to help them record their music which can thus help them recover their speech and also overcome dementia by recalling music . Singing and recording  music will allow self-expression and then sharing that with their community ,friends and family. The other users of the app could be the listeners who like old songs. For elders listening to music can relieve them from boredom. While listening to music , tapping foot or clapping with rhythm encourages movement. The other benefit that can be reaped is creating a large social network and recalling and sharing stories associated with the songs.Our idea to create app that helps elders recording and listening despite their various impairments and also taking into consideration their abilities.
 
 ## Concept 
-outline the idea and the rationale behind it. Define the project aims and audience and identify how
-your idea is diferent from / improves upon other current oferings. Identify areas of social & mobile theory
-that apply to, will inform your concept & approach.
-
 ### Idea
 Many young people use their different kind of music APPs to share their favorite music or some art form, for example, iTunes, music box, Spotify and so on. They enjoy and share a wide variety of music, share their own lives. Young people learn and master new technology quickly and easily, they are keen to understand new things.
 
@@ -75,14 +69,7 @@ Su Mi Dahlgaard Park,2015 http://dx.doi.org.ezproxy.library.uq.edu.au/10.4135/97
 
 
 ## Team
-Who is on your team, what are their responsibilities, and how will you work together? List all the
-members and their course code. Identify: 
-* Who will lead the team and manage the project; 
-* Who is responsible for logistics e.g. equipment, meetings, transport, etc; 
-* Who fills key roles, e.g. back end, front end, content, design;
-* How will decisions be made;
-* How will the team handle poor performance and resolve conflicts. 
-
+### Our Team
 Name | Student Number | Course Code|Role
 ------------ | ------------- | ------------|--------------------|
 Bhawna Soi | 44726382 | DECO7350|Team Leader,Front End Developer,Back End Developer
@@ -98,14 +85,10 @@ For the logistics part, Lu will undertake these jobs. She will be responsible fo
 To fill the key rolls, we decide to let Reginald to do the back end role, Bhawna will in charge of front end, XiaoXin and Ariel will in responsible for thinking content part and Lu will design the product interface.
 When every huge decision need to be made, we will use vote to decide which decision we will choose and on one can argue the final result, we think this is the fairest method to make decision.
 
+### Poor Performance And Conflict Resolution
 Whenever poor performance happens in the team, we will have a group meeting and review what is happening in our team, then we will decide how to improve and what should we do for a better team work. Nevertheless, to avoid these kinds of situation happen, we will encourage teammates to work and communicate with each other consistency, when teammate is in trouble for completing the work, we will give a hand to him/her and help her to pass through the plight. We believed that we will pass through every plight if we have good communication and attitude, we strictly prohibit to blame others no matter they did bad or not good enough to achieve the requirement. Bhawna will come out if there is conflict exist in our team, because she has the most experience in the society and she will know how to resolve the clash. 
 
 ## Communication
-Where and when will your team meet and how will you all communicate? Where will files 1
-be stored and shared? What are the file naming conventions?
-Identify the social platform/s your team has adopted and explain the choice. How will it facilitate
-communication and / or file sharing? 
-
 ### Meetings
 * Meetings are held during the contact weekly and additional meeting is considered if it is necessary.The additional meeting should be proved by every teammember and the time will be decided based on the available schedule of the whole team,ensuring everyone can attend the meeting.
 * Every team member should need to report what they had done in the last week,what they are doing right now and what they are going to do in the weekly meeting during the contact session,making sure that the team project is on track.
