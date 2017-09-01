@@ -7,7 +7,7 @@ Music offers a multitude of benefits for people of every age , particularly for 
 
 ### Persona
 ![persona1](https://upload.wikimedia.org/wikipedia/commons/2/2c/Markpersona.png)
-### Person 
+### Persona 
 ![persona2](https://upload.wikimedia.org/wikipedia/commons/9/97/JudiPersona.png)
 
 
