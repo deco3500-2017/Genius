@@ -1,14 +1,8 @@
-
 # Team Genuis Proposal
 ## Introduction
-Music offers a multitude of benefits for people of every age , particularly for the elderly population . It works as a therapy to increase memory function, relax the body , reduce muscle tension and boost productivity. Our idea is to create a music app especially for elders to help them record their music which can thus help them recover their speech and also overcome dementia by recalling music . Singing and recording  music will allow self-expression and then sharing that with their community ,friends and family. The other users of the app could be the listeners who like old songs. For elders listening to music can relieve them from boredom. While listening to music , tapping foot or clapping with rhythm encourages movement. The other benefit that can be reaped is creating a large social network and recalling and sharing stories associated with the songs.Our idea to create app that helps elders recording and listening despite their various impairments and also taking into consideration their abilities.
+Music offers a multitude of benefits for people of every age , particularly for the elderly population . It works as a therapy to increase memory function, relax the body , reduce muscle tension and boost productivity. Our idea is to create a music app especially for elders to help them record their music which can thus help them recover their speech and also overcome dementia by recalling music . Singing and recording  music will  allow self-expression by sharing that with their community ,friends and family. The other users of the app could be the listeners who like old songs. For elders listening to music can relieve them from boredom. While listening to music , tapping foot or clapping with rhythm encourages movement. The other benefit that can be reaped is creating a large social network and recalling and sharing stories associated with the songs.Our idea to create app that helps elders recording and listening despite their various impairments and also taking into consideration their abilities.
 
 ## Concept 
-
-### Persona
-![two](https://upload.wikimedia.org/wikipedia/commons/2/2c/Markpersona.png)
-![one](https://upload.wikimedia.org/wikipedia/commons/9/97/JudiPersona.png)
-
 ### Idea
 Many young people use their different kind of music APPs to share their favorite music or some art form, for example, iTunes, music box, Spotify and so on. They enjoy and share a wide variety of music, share their own lives. Young people learn and master new technology quickly and easily, they are keen to understand new things.
 
@@ -20,7 +14,6 @@ Our target audience are the seniors with rich lif experience at a wide age range
 
 The goal of this project is to develop a music, life, and memories sharing software for the elderly. This APP uses voice control function and simple use of the interface to facilitate the utilization of the elderly so that the aging people could feel the fun and convenience of the technology.Also, big title and big text are also considered when designing the application.Based on the observation in daily life,plenty of the seniors are sufferring presbyopia when they are getting older.
 ### Emotion design
-
 Emotional design is a term popularised by Don Norman to explain why "attractive things work better” to address the criticism of his previous book that he was advocating(Su Mi Dahlgaard Park,2015) .
 
 All design is emotional, but by focusing on personal concern/values and meaning, designers intend to evoke targeted emotions by taking directed design decisions. We are not able to design the emotion in itself, therefore it is common practice to talk about 'design for emotion'. We create the context in which emotions are elicited.e but ugly' products.
@@ -132,7 +125,7 @@ In research, the milestone is graphic representations which may include pie char
   * A group of elderly, no matter they like music or not, would possibly participate our utility tests. We may intend to find old groups in Brisbane City, welfare homes and even make our relatives as participants. This step would between the period of second and last iteration of prototyping work, and we would make some changes according to the feedback we received.
 
 ## Tags
-#mobile #HumanReactions #coordination #Emotionaldesign #social #TechnologyForElders #ageing #Affect
+#musicForElders #mobile #HumanReactions #coordination  #affect #Emotionaldesign #social #TechnologyForElders #aging 
 ## Reference List
 Su Mi Dahlgaard Park,2015 http://dx.doi.org.ezproxy.library.uq.edu.au/10.4135/9781483346366 
 Lifewire,2010 https://www.lifewire.com/how-many-apps-in-app-store-2000252
