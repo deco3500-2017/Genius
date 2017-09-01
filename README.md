@@ -52,7 +52,6 @@ Consider the poor, elderly eyesight; we add the emoji function. When the user cl
 :blush: pleasant music
 
 :sob:   Sad music
-
 :leaves:Nature sounds
  
 - Mobile buzzes function
@@ -68,10 +67,10 @@ This app can make aging people to sharing their music, memories, and life to oth
 Name | Student Number | Course Code|Role
 ------------ | ------------- | ------------|--------------------|
 Bhawna Soi | 44726382 | DECO7350|Team Leader,Front End Developer,Back End Developer
-Lu Cao | 45034097 | DECO7350| Designer
+Lu Cao | 45034097 | DECO7350| Logistics Manager ,Designer
 Jiayu Gao | 44460381 | DECO7350| Content Designer
 Xiaoxin Wang | 44091673 | DECO3500| Content Designer
-Reginald Ho | 44018157 | DECO3500 |backend
+Reginald Ho | 44018157 | DECO3500 |Backend
 
 It is hard to decide who is the best suitable person to become the leader to lead the team due to everyone has their own personality and ability, we finally have decided Bhawna to undertake the position. Since she has the longest study life than rest of the teammates, we have decided to let her become the leader and manage the project. We believed it is the best decision and she will lead the team successfully. 
 
@@ -106,9 +105,12 @@ Design|Low-fedility Prototype, Testing,Evaluation|testing and evaluation results
 Construction|Developing app|Interface|End of Week 10
 
 ### Research
-Through reading related literature online, searching in the library and operating existing popular music applications on the smart phone, we will analyze the functions, interfaces, interactions and target crowds of these popular apps. Because the elderly generally has some perceived deficiencies or obstacles compared with young people, our job is to discover the shortcomings of current apps when focusing on elderly as well as the difficulties the elderly might have while listening to music (i.e. visual and auditory).
+Through reading related literature online, searching in the library and operating existing popular music applications on the smart phone, we will analyze the functions, interfaces, interactions and target crowds of these popular apps. Because the elderly generally has some perceived deficiencies or obstacles compared with young people, our job is to discover the shortcomings of current apps when focusing on elderly as well as the difficulties the elderly might have while listening to music (i.e. visual and auditory). Group of elders at community center will be approached and interviewed. Questionnaire will be used to collect more information.
+
 ### Requirements
 As current music applications are lack of consideration of the use of elderly, this part aims to figure out key requirements in aspects of interface design, function definition, targeted assistance for weak perceptions etc. In terms of theory of human-computer interaction, this smart-phone app needs to have great utility, be effective and efficient and be easy to learn. Considering use experience and emotional design, it should be enjoyable and engaging for old people and not challenging for them. On the visceral level of reflections, the interface and interaction should be fascinating and have specific characteristics of old times.
+
+
 ### Design
 As research result shows and requirements gathered, the design process should follow the needs and requirements above. We would design on paper as draft. The sequence of designing would obey ‘from the whole to the local’ and ‘from contour to detail’ principles. First of all, the overall style and sketches of the app would be decided, which include what main colors are and what conceptual model are used. Then distributing different functions into various pages to satisfy users’ needs. Next, we might design several special functions to make it more convenient for weak-ability elderly, for example, a sound amplifying system and replace typing by using human voice commands. Lastly, graphic design will focus on icons, symbols and images of interfaces.
 ### Construction
