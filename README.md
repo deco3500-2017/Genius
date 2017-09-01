@@ -1,9 +1,13 @@
+
 # Team Genuis Proposal
 ## Introduction
 Music offers a multitude of benefits for people of every age , particularly for the elderly population . It works as a therapy to increase memory function, relax the body , reduce muscle tension and boost productivity. Our idea is to create a music app especially for elders to help them record their music which can thus help them recover their speech and also overcome dementia by recalling music . Singing and recording  music will allow self-expression and then sharing that with their community ,friends and family. The other users of the app could be the listeners who like old songs. For elders listening to music can relieve them from boredom. While listening to music , tapping foot or clapping with rhythm encourages movement. The other benefit that can be reaped is creating a large social network and recalling and sharing stories associated with the songs.Our idea to create app that helps elders recording and listening despite their various impairments and also taking into consideration their abilities.
 
 ## Concept 
 ### Idea
+####Persona 
+![persona1](https://commons.wikimedia.org/wiki/File:Markpersona.png)
+![Persona2](https://commons.wikimedia.org/wiki/File:JudiPersona.png)
 Many young people use their different kind of music APPs to share their favorite music or some art form, for example, iTunes, music box, Spotify and so on. They enjoy and share a wide variety of music, share their own lives. Young people learn and master new technology quickly and easily, they are keen to understand new things.
 
 However, technology is accelerating at an extreme pace, and the seniors can't keep up. So finding the way to make aging people enjoy the technology is the first question for our group.
