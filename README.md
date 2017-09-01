@@ -9,6 +9,7 @@ Music offers a multitude of benefits for people of every age , particularly for 
  
 
 ![two](https://upload.wikimedia.org/wikipedia/commons/2/2c/Markpersona.png)
+![one](https://upload.wikimedia.org/wikipedia/commons/9/97/JudiPersona.png)
 
 ### Idea
 Many young people use their different kind of music APPs to share their favorite music or some art form, for example, iTunes, music box, Spotify and so on. They enjoy and share a wide variety of music, share their own lives. Young people learn and master new technology quickly and easily, they are keen to understand new things.
