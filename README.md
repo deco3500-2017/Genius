@@ -10,9 +10,9 @@ However, technology is accelerating at an extreme pace, and the seniors can't ke
 
 At the same time, we also consider the aging people have more life experience means more knowledge, practice, and experience to draw on. So based on this idea, we decided to design a simple, easy to use app for aging to use and share traditional music and operas with their own stories, photos, different topics, and emotions. Older people can also enjoy the convenience of science and technology, at the same time, this app would seeking hints of music or art forms that could disappear as change continues.
 ### Project aims & Audience
-Our target audience is age from 60 to 100 years old people who have a rich life experience, happy to share music and their stories and experiences with young people and their peers. The target audience also could be keen on the inheritance and continuation of music.
+Our target audience are the seniors with rich lif experience at a wide age range around 60-100, happy to share music and their stories and experiences with young people and their peers. The target audience also could be keen on the inheritance and continuation of music.
 
-The goal of this project is to develop a music, life, and memories sharing software for the elderly. This APP uses voice control function and simple use of the interface to facilitate the utilization of the elderly so that the aging people could feel the fun and convenience of the technology.
+The goal of this project is to develop a music, life, and memories sharing software for the elderly. This APP uses voice control function and simple use of the interface to facilitate the utilization of the elderly so that the aging people could feel the fun and convenience of the technology.Also, big title and big text are also considered when designing the application.Based on the observation in daily life,plenty of the seniors are sufferring presbyopia when they are getting older.
 ### Emotion design
 Emotional design is a term popularised by Don Norman to explain why "attractive things work better” to address the criticism of his previous book that he was advocating(Su Mi Dahlgaard Park,2015) .
 
