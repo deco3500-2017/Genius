@@ -1,7 +1,7 @@
 
-# Team Genuis Proposal
+# Team Genius Proposal
 ## Introduction
-Music offers a multitude of benefits for people of every age , particularly for the elderly population . It works as a therapy to increase memory function, relax the body , reduce muscle tension and boost productivity. Our idea is to create a music app especially for elders to help them record their music which can thus help them recover their speech and also overcome dementia by recalling music . Singing and recording  music will  allow self-expression by sharing that with their community ,friends and family. The other users of the app could be the listeners who like old songs. For elders listening to music can relieve them from boredom. While listening to music , tapping foot or clapping with rhythm encourages movement. The other benefit that can be reaped is creating a large social network and recalling and sharing stories associated with the songs.Our idea to create app that helps elders recording and listening despite their various impairments and also taking into consideration their abilities.
+Music offers a multitude of benefits for people of every age, particularly for the elderly population. It works as a therapy to increase memory function, relax the body, reduce muscle tension and boost productivity. Our idea is to create a music app especially for elders to help them record their music which can thus help them recover their speech and also overcome dementia by recalling music . Singing and recording  music will  allow self-expression by sharing that with their community, friends and family. The other users of the app could be the listeners who like old songs. For elders listening to music can relieve them from boredom. While listening to music , tapping foot or clapping with rhythm encourages movement. The other benefit that can be reaped is creating a large social network and recalling and sharing stories associated with the songs.Our idea to create app that helps elders recording and listening despite their various impairments and also taking into consideration their abilities.
 
 ## Concept 
 
@@ -16,9 +16,9 @@ Many young people use their different kind of music APPs to share their favorite
 
 However, technology is accelerating at an extreme pace, and the seniors can't keep up. So finding the way to make aging people enjoy the technology is the first question for our group.
 
-At the same time, we also consider the aging people have more life experience means more knowledge, practice, and experience to draw on. So based on this idea, we decided to design a simple, easy to use app for aging to use and share traditional music and operas with their own stories, photos, different topics, and emotions. Older people can also enjoy the convenience of science and technology, at the same time, this app would seeking hints of music or art forms that could disappear as change continues.
+At the same time, we also consider the aging people have more life experience means more knowledge, practice, and experience to draw on. So based on this idea, we decided to design a simple, easy to use app for aging to use and share traditional music and operas with their own stories, photos, different topics, and emotions. Older people can also enjoy the convenience of science and technology, at the same time, this app would seek hints of music or art forms that could disappear as change continues.
 ### Project aims & Audience
-Our target audience are the seniors with rich lif experience at a wide age range around 60-100, happy to share music and their stories and experiences with young people and their peers. The target audience also could be keen on the inheritance and continuation of music.
+Our target audience are the seniors with rich life experience at a wide age range around 60-100, happy to share music and their stories and experiences with young people and their peers. The target audience also could be keen on the inheritance and continuation of music.
 
 The goal of this project is to develop a music, life, and memories sharing software for the elderly. This APP uses voice control function and simple use of the interface to facilitate the utilization of the elderly so that the aging people could feel the fun and convenience of the technology.Also, big title and big text are also considered when designing the application.Based on the observation in daily life,plenty of the seniors are sufferring presbyopia when they are getting older.
 ### Emotion design
@@ -43,7 +43,7 @@ This product design mode of operation,as much as possible uses the functions/int
 ### Innovation
 - Target groups
 
-According to our research, In the 18 months starting July 2008, when Apple updated the iOS to support native apps, and ending in January 2010, nearly 150,000 apps were released. That's around 275 apps per day. In so many massive amounts of mobile phone software, music software accounted for 40% of the number (live wire,2010).In this 40% of the software inside, most of the design groups are for young people. For example iTunes, For you, Tidal, Spotify and so on. And for the elderly involved in the software is only has 1%. So our innovation is to target the group for the aging people.
+According to our research, In the 18 months starting July 2008, when Apple updated the iOS to support native apps, and ending in January 2010, nearly 150,000 apps were released. That's around 275 apps per day. In so many massive amounts of mobile phone software, music software accounted for 40% of the number (live wire,2010). In this 40% of the software inside, most of the design groups are for young people. For example, iTunes, For you, Tidal, Spotify and so on. And for the elderly involved in the software is only has 1%. So our innovation is to target the group for the aging people.
 - Sharing anything with music
 
 This app is a music app, but also could share the anything you want with music. Such as photos, stories, a piece of voice messages or others.
@@ -69,7 +69,7 @@ Consider the poor, elderly eyesight; we add the emoji function. When the user cl
 - The speaker phone function
 Along with increased age, severe hearing loss among aged people exacerbates problems in their daily life. Therefore, we add a speakerphone function on the APP, so the user would easily hear the music.
 ### Identify areas of social & mobile theory
-When there's a sudden tech revolution, you have to unlearn what you've already learned, which takes more time than learning about something new from scratch. This phenomenon is especially true for people over 50 because around that age the brain starts to lose plasticity (the ability to form and change neural connections into new ones).Therefore, aging people slowly start losing touch with new technology. Missed many opportunities to meet new friends, sharing memories, get new information and life online, and enjoy the convenience and joy of technology.
+When there's a sudden tech revolution, you have to unlearn what you've already learned, which takes more time than learning about something new from scratch. This phenomenon is especially true for people over 50 because around that age the brain starts to lose plasticity (the ability to form and change neural connections into new ones). Therefore, aging people slowly start losing touch with new technology. Missed many opportunities to meet new friends, sharing memories, get new information and life online, and enjoy the convenience and joy of technology.
 This app can make aging people to sharing their music, memories, and life to others. Let the elderly have their cyberspace to meet individuals with the same hobbies, or to pass on their favorite music to others.
 ## Team
 ### Our Team
@@ -85,10 +85,10 @@ It is hard to decide who is the best suitable person to become the leader to lea
 
 For the logistics part, Lu will undertake these jobs. She will be responsible for manage a team meeting, to group up which time is comfort for everyone for a team meeting and in charge of book a room for meeting. However, we thought it is not necessary to provide transport because most of the activities will be held in the campus and we will only use out own computer or faculty’s computer to complete our work.
 
-To fill the key rolls, we decide to let Reginald to do the back end role, Bhawna will in charge of front end, XiaoXin and Ariel will in responsible for thinking content part and Lu will design the product interface.
+To fill the key rolls, we decide to let Reginald to do the backend role, Bhawna will in charge of front end, XiaoXin and Ariel will in responsible for thinking content part and Lu will design the product interface.
 When every huge decision need to be made, we will use vote to decide which decision we will choose and on one can argue the final result, we think this is the fairest method to make decision.
 
-### Poor Performance And Conflict Resolution
+### Poor Performance and Conflict Resolution
 Whenever poor performance happens in the team, we will have a group meeting and review what is happening in our team, then we will decide how to improve and what should we do for a better team work. Nevertheless, to avoid these kinds of situation happen, we will encourage teammates to work and communicate with each other consistency, when teammate is in trouble for completing the work, we will give a hand to him/her and help her to pass through the plight. We believed that we will pass through every plight if we have good communication and attitude, we strictly prohibit to blame others no matter they did bad or not good enough to achieve the requirement. Bhawna will come out if there is conflict exist in our team, because she has the most experience in the society and she will know how to resolve the clash. 
 
 ## Communication
@@ -96,12 +96,12 @@ Whenever poor performance happens in the team, we will have a group meeting and 
 * Meetings are held during the contact weekly and additional meeting is considered if it is necessary.The additional meeting should be proved by every teammember and the time will be decided based on the available schedule of the whole team,ensuring everyone can attend the meeting.
 * Every team member should need to report what they had done in the last week,what they are doing right now and what they are going to do in the weekly meeting during the contact session,making sure that the team project is on track.
 * A at least 24-hours meeting notice should be given which involves meeting location,time and meeting contents.Hence,team members can prepare to the meeting.Every team member is required to attend the meeting except for reasonable reasons and a 24-hour notice should be given through Facebook group to the team members.
-* If a team member sledom reply any Facebook messages or contribute to the team,a warming would be given to him/her at first.If continued failure to comply,the team would disscus with tutor about current situation and probobaly take further actions on Peer Assessments.
+* If a team member seldom replies any Facebook messages or contribute to the team, a warming would be given to him/her at first.If continued failure to comply,the team would discuss with tutor about current situation and probably take further actions on Peer Assessments.
 
 ### Tools
-* Facebook message would be the primary instance communication channel for project notification and project management because every teammember has their Facebook account on their phone,ensuring all the newest updates of project can be known by every team member at the first time and nothing urgent is missed.In addition,every team member should give respond within 24 hour.
-* Slack would be used as well,sice it's not mobile and less convinience comparing with Facebook message.Because all the DECO2800 tutors are on slack which it is useful for the team to seek help from tutors and to solve problems,the Slack is considered as secondary communication channels.
-* Google drive and Github would be used as support tool for sharing resources online and since it will have record for each one's contribution and the team can identify the current project easily from the records and adjust the workload.Also,Google drive and Github allowing multiple people working on the same document at the same time which can improve the team efficiency dreamatically.
+* Facebook message would be the primary instance communication channel for project notification and project management because every teammember has their Facebook account on their phone,ensuring all the newest updates of project can be known by every team member at the first time and nothing urgent is missed.In addition, every team member should give respond within 24 hours.
+* Slack would be used as well,since it's not mobile and less convinience comparing with Facebook message.Because all the DECO2800 tutors are on slack which it is useful for the team to seek help from tutors and to solve problems,the Slack is considered as secondary communication channels.
+* Google drive and Github would be used as support tool for sharing resources online and since it will have record for each one's contribution and the team can identify the current project easily from the records and adjust the workload.Also,Google drive and Github allowing multiple people working on the same document at the same time which can improve the team efficiency dramatically.
 ### Naming Convention
 The default naming convention for all the files would be :TEAMNAME_XXX.Team members should use this format when creating or submitting the files to keep the consistency of work.
 
@@ -110,7 +110,7 @@ Project Phase | Description | Key  Deliverables | DeadLine
 --------------|-------------|-------------------|----------
 Research|Online Literature,Meeting elders in local community centre ,Questionnaire|Survey,interview results, data collected from online search|End of week 7
 Requirements|Interface Design,functional design|Drawings and Diagrams |End of Week 8
-Design|Low-fedility Prototype, Testing,Evaluation|testing and evaluation results , recommended changes|End of Week 9
+Design|Low-fidelity Prototype, Testing,Evaluation|testing and evaluation results , recommended changes|End of Week 9
 Construction|Developing app|Interface|End of Week 10
 
 ### Research
