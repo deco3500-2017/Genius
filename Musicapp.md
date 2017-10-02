@@ -1,9 +1,9 @@
+  
+# Design Prototype
 
-#Design Prototype
+## Introduction
 
-##Introduction
-
-##Research 
+## Research 
 
 ### Academic Studies
 Through the research of the trends and features of the elderly in Australia of using digital communication methods, there are 
