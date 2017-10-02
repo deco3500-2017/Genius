@@ -13,7 +13,7 @@ provide online service more frequently, and they are more likely to choose phone
 Music is an important part which can provide old people benefits for life quality  by contributing to positive self-esteem, by helping people feel competent and independent, and by lessening feelings of isolation and loneliness. (Hays &  Minichiello, 2005). By sharing and participating of music, the seniors could feel joyful and enjoyable, release stress and receive positive emotions ( Lehmberg & Fung, 2010). Since physical, psychological and social areas are defined as major components of quality of life (Kane, 2001), it is logical to conclude that active music participation and sharing has a positive effect on the quality of life of senior citizens.
 
 ### Published Data
-###Primary Data:
+### Primary Data:
 Definition of elders:https://en.wikipedia.org/wiki/Old_age
 The definition of seniors are different based on the location around the world.The the World Health Organization (WHO) set 50 as the beginning of old age while the United Nations has agreed that 60+ years may be usually denoted as old age[9] and this is the first attempt at an international definition of old age.
 
@@ -61,19 +61,53 @@ As we are required to design app , we must know what apps are being used by our 
 
 
 
-##Requirements
+## Requirements
 Based , on our  research , we have found that elders do not like to use complex apps and avoid using devices and apps that involves too many interactions. They do have stories related to music which triggers when particular song is playing but haven’t found any platform that lets them share that with their friends and families staying apart. So our aim is to develop an app with the following considerations in mind:
 
-Elderly prefer using larger font size and clear interface. They avoid to use apps that has complicated interface and it makes hard to look at. In other words, they don’t need the interface has good looking, they can stay the interface as clear as it can.
-Icon can help them use the app more efficient. (icon not emoji) 
-Elderly prefer to choose a song per page rather than a list. By which they mean little details associated with it and may be little part of song than just the name of the song.
-Avoid to  scroll a list.
-They do not have patient to download a song.
-They want some apps that is classic, apps found today are  too modern for elderly.
-They want the app has multi language option.
-The interface metaphor must as clear and accurate as it can, otherwise it will confuse them.
-App that allows to record and share .
-App that does not require too much interactions playing music.
-They like Auto Playlists.
+* Elderly prefer using larger font size and clear interface. They avoid to use apps that has complicated interface and it makes hard to look at. In other words, they don’t need the interface has good looking, they can stay the interface as clear as it can.
+* Icon can help them use the app more efficient. (icon not emoji) 
+* Elderly prefer to choose a song per page rather than a list. By which they mean little details associated with it and may be little part of song than just the name of the song.
+* Avoid to  scroll a list.
+* They do not have patience to download a song.
+* They want some apps that is classic, apps found today are  too modern for elderly.
+* They want the app has multi language option.
+* The interface metaphor must as clear and accurate as it can, otherwise it will confuse them.
+* App that allows to record and share .
+* App that does not require too much interactions playing music.
+* They like Auto Playlists.
 
-##Design Process
+## Design Process
+### Conceptual Model:
+
+***Functions of the App:***
+1. It includes the various categories of music popular among elders.
+2. It lists the popular songs with their rank and number of likes.
+3. It will help Elders play music.
+4. It will help elders share their own story with music.
+5. It will show others stories related to the music.
+6. It will help  elders add their pictures with the music.
+7. It will help elders record their voice and share with the music.
+8. It will allow elders create event according to their interest.
+9. It will help elders know any event schedule nearby,
+10. It will help them upload items they want to share during event.
+
+***What will Elders do?***
+1.   Play music
+2.   Read others stories.
+3.   Share their own stories.
+
+***How are functions related to each other?***
+
+
+
+
+***What information needs to be available?***           
+***Data required to perform task:***
+                
+            
+
+***Form of the solution -*** This Music app will be an interactive app with Icons, menus and clear text on Pages that can be swiped  to navigate through app.
+Level of user support - 
+Activity to be supported - 
+
+### Story Board ###
