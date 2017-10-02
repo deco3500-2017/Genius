@@ -112,7 +112,16 @@ Activity to be supported -
 
 ### Story Board ###
 
-![picture alt](https://commons.wikimedia.org/wiki/File:StoryBoard.png)
+![picture alt](https://github.com/deco3500-2017/Genius/blob/master/musicapp-highres.png)
+
+Our design journey started with designing various Paper Prototypes and then selecting one out of them that is close to our requirements.
+
+### Paper Prototype ###
+
+### Digital Prototype ###
+
+### Testing Plan ###
+### Testing Results ###
 
 
 
