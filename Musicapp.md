@@ -123,6 +123,16 @@ Our design journey started with designing various Paper Prototypes and then sele
 
 
 ### Digital Prototype ###
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/Android%20Mobile%20%E2%80%93%201.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/Android%20Mobile%20%E2%80%93%202.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/Android%20Mobile%20%E2%80%93%203.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/Android%20Mobile%20%E2%80%93%204.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/Android%20Mobile%20%E2%80%93%205.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/Home%20page.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/Second%20Page.png)
+
+
+
 
 ### Testing Plan ###
 ***Users:*** Elders at Brisbane Square Library on 29/09/2017.
