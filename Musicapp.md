@@ -112,10 +112,12 @@ Activity to be supported -
 
 ### Story Board ###
 
-![picture alt]
+![Story](https://github.com/deco3500-2017/Genius/blob/master/storyboard1.png)
+![Story](https://github.com/deco3500-2017/Genius/blob/master/storyboard2.png)
 Our design journey started with designing various Paper Prototypes and then selecting one out of them that is close to our requirements.
 
 ### Paper Prototype ###
+
 
 ### Digital Prototype ###
 
