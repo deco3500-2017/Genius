@@ -53,6 +53,7 @@ As we are required to design app , we must know what apps are being used by our 
 
 **Interviews :**
 
+
 *Interview 1:* This interviewee is a french lady who is 68 years old and lives with husband in Gold Coast. She has her kids settled in New Zealand. She uses smartphone to call , facebook and play games . She likes playing games that involves drag and dropping and thus do not like playing on desktop. She cannot sit for long time thus likes using mobile as it can be used anywhere , anytime and anyway.She likes listening radio. She would want an app to help her sing Birthday, christmas and new year  messages and sending it to family. She uses Youtube to listen to music.
 
 *Interview 2:* He is Kiwi, age 72  and has been living in Gold Coast for nearly 20 years. He is not very expert in technology. He is building manager and only uses mobile to call and send messages. He uses desktop to create documents and send emails due to big screen. He says that he avoid using mobile due to small letters or interface. He watches TV and listens Radio too. As he do not like using phone to listen to music as it involves changing music and he don’t know how to create playlists. He likes whatever is played on radio and then he don't need to change anything interrupting his work.He likes playing music than singing. Also , he would like playing music of his time. When asked , if he would like to use app that helps him listen to music and share that with friends and family ,he responded that only if it is very easy and simple to use and contains bigger fonts.
@@ -124,6 +125,39 @@ Our design journey started with designing various Paper Prototypes and then sele
 ### Digital Prototype ###
 
 ### Testing Plan ###
+***Users:*** Elders at Brisbane Square Library on 29/09/2017.
+
+***Activities:*** Testing prototype with the following list of activities
+***Task Sheet:***
+Select any song .
+Click on share your story.
+Click on Add Image.
+Click on Back Button
+Go back to Home Page.
+Share your Image with the Music.
+Take image of your old picture and share it
+Go to Home Page.
+Record your voice with Song and share it.
+Select any other category of music.
+
+***Interview Questions for further Design Considerations:***
+Questions for 2nd prototype
+1.Do you listen to music at your free time?
+2.What kind of music do you prefer?
+3.What is your favourite song and why?
+4.Do you think there are some connections between music and people’s memory?
+5.Are there interesting stories behind one song you want to share with your friends or families?
+6.Do you like share your life story with other people?
+7.Would you mind share your story with some strangers?
+8.When you listen to some old song,can they remind your personal stories?
+9.What do you think of this application?
+10.Is it too hard for you to use?
+11.Do you think this application provide a social platform for you to meet some new friends?
+12.What is your normal way to share your life with others?Hangout or ?
+13.What do you usually do when your are free?
+14.How do you meet new friends?
+15.Do you join any social clubs to kill your time?
+
 ### Testing Results ###
 
 
