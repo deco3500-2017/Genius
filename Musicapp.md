@@ -112,8 +112,7 @@ Activity to be supported -
 
 ### Story Board ###
 
-![picture alt](https://github.com/deco3500-2017/Genius/blob/master/musicapp-highres.png)
-
+![picture alt]
 Our design journey started with designing various Paper Prototypes and then selecting one out of them that is close to our requirements.
 
 ### Paper Prototype ###
