@@ -2,7 +2,9 @@
 # MusicLife Design Documentation Report
 
 ## Introduction
+Aging is unavoidable.Sometimes people might be frustrated because their body function is degenerating gradually and they are starting to lose some abilities, becoming less useful and cannot make contributions to their families or the society.But as people are growing older, their experience was enriching at the same time and they had witnessed how human society is developed through these years which actually means a lot to the study of human society.
 
+Apart from human being, music is the reflection of the state of society as well and it has a strong connection with human beings.
 ## Research 
 
 ### Academic Studies
