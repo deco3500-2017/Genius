@@ -77,5 +77,5 @@ Activity to be supported -
 Our design journey started with designing various Paper Prototypes and then selecting one out of them that is close to our requirements.
 
 
-## Interview & Prototypes:
+## Interview And Prototypes
 ## Decisions 
