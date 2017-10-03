@@ -1,5 +1,5 @@
 ## Questions
-Followings are the questions we asked in the first interview:
+Before we could start creating Music app for elders , we decided to interview elders to find out their views about the app. Also to aid us in designing, we needed to find out what technology and app they are currently using .Followings are the questions we asked in the first interview:
 * Do you have any mobile devices?
 * How will you utilize your devices? Will you use it to listen to music?
 * Do you like listening to music?
