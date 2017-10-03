@@ -80,3 +80,4 @@ Our design journey started with designing various Paper Prototypes and then sele
 ## Interview & Prototypes
 Totally 2 interviews and 4 prototypes was conducted during the project MusicLife.
 ## Decisions 
+## References
