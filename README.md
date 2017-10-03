@@ -1,5 +1,5 @@
 
-# Design Documentation
+# MusicLife Design Documentation Report
 
 ## Introduction
 
@@ -22,7 +22,8 @@ https://musicandmemory.org/music-brain-resources/music-and-the-brain/
 
 In fact, our brains are hardwired to connect music with long-term memory.Even for persons with severe dementia, music can tap deep emotional recall. For individuals suffering from Alzheimer’s, memory for things—names, places, facts—is compromised, but memories from our teenage years can be well-preserved.
 
-### Interviews:
+# Concept
+# Interviews:
 Before we could start creating Music app for elders , we decided to interview elders to find out their views about the app. Also to aid us in designing, we needed to find out what technology and app they are currently using .The  questions that were framed to be asked were:
 *Do you have smart phones?
 *What activities do you do on your phone?
