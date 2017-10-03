@@ -50,7 +50,7 @@ There have been numerous music apps available but that have not been designed in
 *Elders living apart from Family:*
 Our main focus is to let elders share their music and memories with their families and friends. Most of the elders are found living apart from families. We want to provide them a platform to share their Memories and stories with a particular song with their families and friends and stay connected. Elders feel loved when someone listens and appreciates them. Also recalling memories help them overcome Dementia.Music can trigger long forgotten memories and reduce anxiety. Music has been proven to promote better health and a higher level of functioning.
 
-*Elders who like music: *
+*Elders who like music:*
 We need to test music apps with the group of elders who are fond of music and can be the potential users. Elders who like music will possibly be using some source of  music and can help us understand their needs and problems they have been facing in the current app or devices.
 
 *Elders who are currently using Music Apps:*
@@ -78,15 +78,4 @@ Our design journey started with designing various Paper Prototypes and then sele
 
 
 ## Interview & Prototypes:
-Before we could start creating Music app for elders , we decided to interview elders to find out their views about the app. Also to aid us in designing, we needed to find out what technology and app they are currently using .The  questions that were framed to be asked were:
-*Do you have smart phones?
-*What activities do you do on your phone?
-*Do you listen to Music?
-*Do you sing Music?
-*What kind of Music do you like?
-*What device do you use to play music?
-*What is your preferred device for music and why?
-*Do you use any app to listen to music?
-*What role does Music play in your life?
-*Any health related issues.
-*How comfortable are you with current apps and devices.
+## Decisions 
