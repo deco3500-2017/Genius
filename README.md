@@ -22,39 +22,7 @@ https://musicandmemory.org/music-brain-resources/music-and-the-brain/
 
 In fact, our brains are hardwired to connect music with long-term memory.Even for persons with severe dementia, music can tap deep emotional recall. For individuals suffering from Alzheimer’s, memory for things—names, places, facts—is compromised, but memories from our teenage years can be well-preserved.
 
-# Concept
-# Interviews:
-Before we could start creating Music app for elders , we decided to interview elders to find out their views about the app. Also to aid us in designing, we needed to find out what technology and app they are currently using .The  questions that were framed to be asked were:
-*Do you have smart phones?
-*What activities do you do on your phone?
-*Do you listen to Music?
-*Do you sing Music?
-*What kind of Music do you like?
-*What device do you use to play music?
-*What is your preferred device for music and why?
-*Do you use any app to listen to music?
-*What role does Music play in your life?
-*Any health related issues.
-*How comfortable are you with current apps and devices.
-
-**Focused Groups:**
-
-*Elders above age 60:*
-There have been numerous music apps available but that have not been designed in keeping in mind that elders do have health related issues that can make it difficult for them to use those apps. We try to find out what difficulties do they find and what features would they like to be implemented in Music app.
-
-*Elders living apart from Family:*
-Our main focus is to let elders share their music and memories with their families and friends. Most of the elders are found living apart from families. We want to provide them a platform to share their Memories and stories with a particular song with their families and friends and stay connected. Elders feel loved when someone listens and appreciates them. Also recalling memories help them overcome Dementia.Music can trigger long forgotten memories and reduce anxiety. Music has been proven to promote better health and a higher level of functioning.
-
-*Elders who like music: *
-We need to test music apps with the group of elders who are fond of music and can be the potential users. Elders who like music will possibly be using some source of  music and can help us understand their needs and problems they have been facing in the current app or devices.
-
-*Elders who are currently using Music Apps:*
-As we are required to design app , we must know what apps are being used by our elders and what do they like or hate about their current apps. This will help us know the layout, features and design properties they are comfortable with.
-
-
-
-
-## Design Process
+## Concept
 ### Conceptual Model:
 
 ***Functions of the App:***
@@ -99,3 +67,31 @@ Our design journey started with designing various Paper Prototypes and then sele
 
 
 
+
+## Interviews:
+Before we could start creating Music app for elders , we decided to interview elders to find out their views about the app. Also to aid us in designing, we needed to find out what technology and app they are currently using .The  questions that were framed to be asked were:
+*Do you have smart phones?
+*What activities do you do on your phone?
+*Do you listen to Music?
+*Do you sing Music?
+*What kind of Music do you like?
+*What device do you use to play music?
+*What is your preferred device for music and why?
+*Do you use any app to listen to music?
+*What role does Music play in your life?
+*Any health related issues.
+*How comfortable are you with current apps and devices.
+
+**Focused Groups:**
+
+*Elders above age 60:*
+There have been numerous music apps available but that have not been designed in keeping in mind that elders do have health related issues that can make it difficult for them to use those apps. We try to find out what difficulties do they find and what features would they like to be implemented in Music app.
+
+*Elders living apart from Family:*
+Our main focus is to let elders share their music and memories with their families and friends. Most of the elders are found living apart from families. We want to provide them a platform to share their Memories and stories with a particular song with their families and friends and stay connected. Elders feel loved when someone listens and appreciates them. Also recalling memories help them overcome Dementia.Music can trigger long forgotten memories and reduce anxiety. Music has been proven to promote better health and a higher level of functioning.
+
+*Elders who like music: *
+We need to test music apps with the group of elders who are fond of music and can be the potential users. Elders who like music will possibly be using some source of  music and can help us understand their needs and problems they have been facing in the current app or devices.
+
+*Elders who are currently using Music Apps:*
+As we are required to design app , we must know what apps are being used by our elders and what do they like or hate about their current apps. This will help us know the layout, features and design properties they are comfortable with.
