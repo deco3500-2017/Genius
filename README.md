@@ -77,5 +77,6 @@ Activity to be supported -
 Our design journey started with designing various Paper Prototypes and then selecting one out of them that is close to our requirements.
 
 
-## Interview And Prototypes
+## Interview & Prototypes
+Totally 2 interviews and 4 prototypes was conducted during the project MusicLife.
 ## Decisions 
