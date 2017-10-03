@@ -13,10 +13,9 @@ Followings are the questions we asked in the first interview:
 * What is your most favourite music application and state why.
 * Do you like to share music with others? If yes, when you sharing the music, what kind of message are you trying to deliver?
 * What kind of music application you preferred? Why?
-
-What is your favourite song?
-Do you have children? Do you have same listening topic or interest with them?
-How do you want to share music? Record? Listening? Or repost others?
+* What is your favourite song?
+* Do you have children? Do you have same listening topic or interest with them?
+* How do you want to share music? Record? Listening? Or repost others?
 
 ## Interview Results
 
