@@ -4,14 +4,14 @@
 * Conducted a paper prototype of the newest version concept
 * Researched on how music relate to human memorry 
 * Summarised the first parper prototype result
+
 Name | Things that we done 
 ------------ | -------------
 Reginald | Content from cell 2
 Bhawna | Content in the second column
 Ariel | Content from cell 2
 Lu | Content in the second column
-Erica | Content from cell 2
-
+Erica | Design a second interview questions and conduct the interview with Bhawna.First paper prototype result summary and research on how music relate to human beings and senior demographic
 # Things that need to be done before next standup
 * Make some changes of the digital prototype to current version
 * Conduct another prototype based on current implementation
@@ -23,4 +23,4 @@ Reginald | Content from cell 2
 Bhawna | Content in the second column
 Ariel | Content from cell 2
 Lu | Content in the second column
-Erica | Content from cell 2
+Erica | Summary the second prototype result and finish the product introduction.
