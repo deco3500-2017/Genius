@@ -22,16 +22,15 @@ Before we could start creating Music app for elders , we decided to interview el
 
 
 ### Result
-*Result 1:* Xu,a 65 years old lady born in Hong Kong but living in Brisbane for more than 30 years.She has a smart phone but she only used for texting and making phone calls only because she only gets 3GB data monthly and she doesn't want to pay extra money for downloading online music.She doesn't like music but she has a CD player at home.She only listens music when she's in the church with her friends and she only listen to carols.She indicates current design for the application is good as big buttons and big text are using and it's a good idea to have only one post each for the music sharing page.But she suggested to using some icons along with the text for buttons.
+*Result 1:* 
+Xu,a 65 years old lady born in Hong Kong but living in Brisbane for more than 30 years.She has a smart phone but she only used for texting and making phone calls only because she only gets 3GB data monthly and she doesn't want to pay extra money for downloading online music.She doesn't like music but she has a CD player at home.She only listens music when she's in the church with her friends and she only listen to carols.She indicates current design for the application is good as big buttons and big text are using and it's a good idea to have only one post each for the music sharing page.But she suggested to using some icons along with the text for buttons.
 
-*Interview 2:* Liang,a 72 years old lady,doesn't has any mobile devices.She enjoy going to church and talking with other people at the weekend.She loves music but she only listen to carols and she has a huge collection of CDs at her place.She like the current interface design because the big button and big text is obiviously and she can understand how to use easily.
-
-
-
+*Interview 2:* 
+Liang,a 72 years old lady,doesn't has any mobile devices.She enjoy going to church and talking with other people at the weekend.She loves music but she only listen to carols and she has a huge collection of CDs at her place.She like the current interface design because the big button and big text is obiviously and she can understand how to use easily.However,she would prefer some applications that are easy to navigate and she doesn't care how fancy the interface would be unless she knows how to use it. In addition,Liang isn't good at English and she would prefer to use some application that provides language settings.
 
 
 ## Requirements
-Based , on our  research , we have found that elders do not like to use complex apps and avoid using devices and apps that involves too many interactions. They do have stories related to music which triggers when particular song is playing but haven’t found any platform that lets them share that with their friends and families staying apart. So our aim is to develop an app with the following considerations in mind:
+Based on our prototype and interview , we have found that elders do not like to use complex apps and avoid using devices and apps that involves too many interactions. They do have stories related to music which triggers when particular song is playing but haven’t found any platform that lets them share that with their friends and families staying apart. So our aim is to develop an app with the following considerations in mind:
 
 * Elderly prefer using larger font size and clear interface. They avoid to use apps that has complicated interface and it makes hard to look at. In other words, they don’t need the interface has good looking, they can stay the interface as clear as it can.
 * Icon can help them use the app more efficient. (icon not emoji) 
