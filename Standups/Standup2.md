@@ -7,7 +7,7 @@
 
 Name | Things that we done 
 ------------ | -------------
-Reginald | Content from cell 2
+Reginald | Teach groupmates how to use Adobe XD, used XD to create 2 pages include home page and music catogories 
 Bhawna | Created pages to upload and share stories in XD, Created Story Board, added preliminary interviews, created plan for testing with prototype I and conducted interviews with Erica.
 Ariel | Content from cell 2
 Lu | Content in the second column
@@ -19,7 +19,7 @@ Erica | Design a second interview questions and conduct the interview with Bhawn
 
 Name | Things that need to be done before next standup
 ------------ | -------------
-Reginald | Content from cell 2
+Reginald | Research how elder use app to listen music
 Bhawna | work in progress on poster and website. Record results from second prototype tests.
 Ariel | Content from cell 2
 Lu | Content in the second column
