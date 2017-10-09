@@ -16,3 +16,6 @@
 * Do you join any social clubs to kill your time?
 
 # Results
+
+* Result 3:
+Mr.Badi, an Indonesian Chinese who is at the age around 68 said he didn't listen to music anymore as he was being old and he admitted that music reminds his past memory.He prefers face-to-face communication rather than online and he doesn't mind talking and share his life story with strangers unless they're in the same community.
