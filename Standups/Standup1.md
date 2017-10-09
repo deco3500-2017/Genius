@@ -5,7 +5,7 @@ Reginald | Content from cell 2
 Bhawna | Content in the second column
 Ariel | Content from cell 2
 Lu | Content in the second column
-Erica | Content from cell 2
+Erica | Design the first interview questions and draw the first paper prototype layout.The first paper prototype is conducted with Reg.
 
 # Things that need to be done before next standup
 Name | Things that need to be done before next standup
@@ -14,4 +14,4 @@ Reginald | Content from cell 2
 Bhawna | Content in the second column
 Ariel | Content from cell 2
 Lu | Content in the second column
-Erica | Content from cell 2
+Erica | Research on how music related to human beings
