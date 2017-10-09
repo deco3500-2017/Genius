@@ -19,7 +19,7 @@ Erica | Design a second interview questions and conduct the interview with Bhawn
 
 Name | Things that need to be done before next standup
 ------------ | -------------
-Reginald | Research how elder use app to listen music
+Reginald | Research how elder use app to listen music, link every prototype pages toether using Ariel design.
 Bhawna | work in progress on poster and website. Record results from second prototype tests.
 Ariel | Content from cell 2
 Lu | Content in the second column
