@@ -45,3 +45,4 @@ Based on our prototype and interview , we have found that elders do not like to 
 * Auto Playlists is required.
 
 ## Decisions making
+As 
