@@ -12,6 +12,11 @@ provide online service more frequently, and they are more likely to choose phone
 Music is an important part which can provide old people benefits for life quality  by contributing to positive self-esteem, by helping people feel competent and independent, and by lessening feelings of isolation and loneliness. (Hays &  Minichiello, 2005). By sharing and participating of music, the seniors could feel joyful and enjoyable, release stress and receive positive emotions ( Lehmberg & Fung, 2010). Since physical, psychological and social areas are defined as major components of quality of life (Kane, 2001), it is logical to conclude that active music participation and sharing has a positive effect on the quality of life of senior citizens.
 
 ### Published Data
+15% of elderly whose are 65 years old or above in USA has used streaming music app to listen music (Music Machinery, nd). Comapare to 13-34 years old age group, they have around 40-50% of population that will use music streaming apps to listen music. But still, 15% is still a massive number in the elderly population.
+The top artists for the average 64-year-old listener include a mix of currently popular artists along with a number of artists from years gone by ((Music Machinery, nd), however, the article pointed out that 13 years old listener only listen to current artist, which means elderly have more acceptance to the modern music.
+#### Reference
+Music Machinery. (nd). Retreived from https://musicmachinery.com/2014/02/13/age-specific-listening/
+
 ### Primary Data:
 Definition of elders:https://en.wikipedia.org/wiki/Old_age
 The definition of seniors are different based on the location around the world.The the World Health Organization (WHO) set 50 as the beginning of old age while the United Nations has agreed that 60+ years may be usually denoted as old age[9] and this is the first attempt at an international definition of old age.
