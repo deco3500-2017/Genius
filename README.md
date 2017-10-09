@@ -13,7 +13,9 @@ Music is an important part which can provide old people benefits for life qualit
 
 ### Published Data
 15% of elderly whose are 65 years old or above in USA has used streaming music app to listen music (Music Machinery, nd). Comapare to 13-34 years old age group, they have around 40-50% of population that will use music streaming apps to listen music. But still, 15% is still a massive number in the elderly population.
+
 The top artists for the average 64-year-old listener include a mix of currently popular artists along with a number of artists from years gone by ((Music Machinery, nd), however, the article pointed out that 13 years old listener only listen to current artist, which means elderly have more acceptance to the modern music.
+
 #### Reference
 Music Machinery. (nd). Retreived from https://musicmachinery.com/2014/02/13/age-specific-listening/
 
