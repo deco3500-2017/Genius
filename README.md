@@ -29,6 +29,8 @@ https://musicandmemory.org/music-brain-resources/music-and-the-brain/
 In fact, our brains are hardwired to connect music with long-term memory.Even for persons with severe dementia, music can tap deep emotional recall. For individuals suffering from Alzheimer’s, memory for things—names, places, facts—is compromised, but memories from our teenage years can be well-preserved.
 
 ## Concept
+### Problem Domain
+### Demographic
 ### Conceptual Model:
 
 ***Functions of the App:***
