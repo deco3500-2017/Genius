@@ -2,8 +2,7 @@
 # MusicLife Design Documentation Report
 
 ## Introduction
-MusicLife is an application aims to provide a social platform for elderly to share their life story or music experience with other people through creating physical events.As music has a strong connection with human memory, music will be used as a support tool to help to remind their memory and ice-breaking tool.
-## Research 
+MusicLife is an application aims to provide a social platform for elderly to share their life story or music experience with other people through creating physical events.As music has a strong connection with human memory, music will be used as a support tool to help seniors reminding their memory and also an ice-breaking tool as well.Since human beings are actually the witness of the development of human society, the life story or music experience of every human being is valuable for researchers on teasing out the development of human society and saving some traditional music.By doing this, seniors can still contribute to current society and find out their values.
 
 ### Academic Studies
 Through the research of the trends and features of the elderly in Australia of using digital communication methods, there are 
