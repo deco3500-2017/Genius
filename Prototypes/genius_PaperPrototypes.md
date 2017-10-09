@@ -29,17 +29,19 @@ Xu,a 65 years old lady born in Hong Kong but living in Brisbane for more than 30
 Liang,a 72 years old lady,doesn't has any mobile devices.She enjoy going to church and talking with other people at the weekend.She loves music but she only listen to carols and she has a huge collection of CDs at her place.She like the current interface design because the big button and big text is obiviously and she can understand how to use easily.However,she would prefer some applications that are easy to navigate and she doesn't care how fancy the interface would be unless she knows how to use it. In addition,Liang isn't good at English and she would prefer to use some application that provides language settings.
 
 
-## Requirements
+## Result Summary
 Based on our prototype and interview , we have found that elders do not like to use complex apps and avoid using devices and apps that involves too many interactions. They do have stories related to music which triggers when particular song is playing but haven’t found any platform that lets them share that with their friends and families staying apart. So our aim is to develop an app with the following considerations in mind:
 
-* Elderly prefer using larger font size and clear interface. They avoid to use apps that has complicated interface and it makes hard to look at. In other words, they don’t need the interface has good looking, they can stay the interface as clear as it can.
-* Icon can help them use the app more efficient. (icon not emoji) 
-* Elderly prefer to choose a song per page rather than a list. By which they mean little details associated with it and may be little part of song than just the name of the song.
+* Using larger font size and clear interface. Seniors avoid to use apps that has complicated interface and it makes hard to look at. In other words, they don’t need the interface has good looking, they can stay the interface as clear as it can.
+* Icon should be used with text when designing buttons and emoji should not be used as it might cause some confusion.
+* One song per page for viewing post.Elderly prefer to choose a song per page rather than a list. By which they mean little details associated with it and may be little part of song than just the name of the song.
 * Avoid to  scroll a list.
-* They do not have patience to download a song.
-* They want some apps that is classic, apps found today are  too modern for elderly.
+* No need for downloading music as seniorsdo not have enuoght patience.
+* Design should be classic rather than being modern so that they know how to use it easily.
 * They want the app has multi language option.
 * The interface metaphor must as clear and accurate as it can, otherwise it will confuse them.
 * App that allows to record and share .
 * App that does not require too much interactions playing music.
-* They like Auto Playlists.
+* Auto Playlists is required.
+
+## Decisions making
