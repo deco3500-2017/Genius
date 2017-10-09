@@ -1,3 +1,6 @@
+** These interviews were conducted by Lu in the beginning.**
+** Have been updated to Preliminary interviews **
+
 Questions
 Before we could start creating Music app for elders , we decided to interview elders to find out their views about the app. Also to aid us in designing, we needed to find out what technology and app they are currently using .Followings are the questions we asked in the first interview:
 
@@ -49,3 +52,7 @@ Summary
 Through the interview, I found the elderly in this age, for how to learn the use of mobile phone software or mobile phone function without any power and interest, because learning a new skill is too complicated for them.
 Relative to the mobile phone software, they are more inclined to use their familiar equipment to listen to music, such as Lanpo like watching TV, listening to Peking opera from the TV. Jan likes to buy a disc, use a CD player to listen to symphony.
 So through interviews, I found that if you want to design music device for the elderly group, starting from the actual needs and habits of the elderly. 
+
+
+# Prototype II test results
+
