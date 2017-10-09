@@ -13,7 +13,7 @@
 * What is your normal way to share your life with others?Hangout or ?
 * What do you usually do when your are free?
 * How do you meet new friends?
-* Do you join any social clubs to kill your time?
+* Do you join any social clubs to skill your time?
 
 # Results
 
