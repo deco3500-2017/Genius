@@ -32,6 +32,11 @@ In fact, our brains are hardwired to connect music with long-term memory.Even fo
 ## Concept
 ### Problem Domain
 ### Demographic
+Definition of elders:https://en.wikipedia.org/wiki/Old_age
+Most developed-world countries have accepted the chronological age of 65 years as a definition of 'elderly' or older person. The United Nations has agreed that 60+ years may be usually denoted as old age[9] and this is the first attempt at an international definition of old age. However, for its study of old age in Africa, the World Health Organization (WHO) set 50 as the beginning of old age. At the same time, the WHO recognized that the developing world often defines old age, not by years, but by new roles, loss of previous roles, or inability to make active contributions to society.[10]
+
+For the study of old age in Africa,the World Health Organization set 50 as the beginning of old age. However,the definition of seniors is slightly different among developing countries and developed countries according to the Wikipedia.The majority of developed-world countries have agreed that senior citizens are those people with the chronological age of 65 years while citizens with age 60+ will be considered as seniors in most developed countries.Based on this situation,the application MusicLife will use Australian senior difinition as our target audience group which is people with the age of 60+ and do not work full time.
+
 ### Conceptual Model:
 
 ***Functions of the App:***
