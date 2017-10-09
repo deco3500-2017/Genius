@@ -2,9 +2,7 @@
 # MusicLife Design Documentation Report
 
 ## Introduction
-Aging is unavoidable.Sometimes people might be frustrated because their body function is degenerating gradually and they are starting to lose some abilities, becoming less useful and cannot make contributions to their families or the society.But as people are growing older, their experience was enriching at the same time and they had witnessed how human society is developed through these years which actually means a lot to the study of human society.
-
-Apart from human being, music is the reflection of the state of society as well and it has a strong connection with human beings.
+MusicLife is an application aims to provide a social platform for elderly to share their life story or music experience with other people through creating physical events.As music has a strong connection with human memory, music will be used as a support tool to help to remind their memory and ice-breaking tool.
 ## Research 
 
 ### Academic Studies
