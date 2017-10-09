@@ -29,7 +29,8 @@ The second person we interviewed likes listening to music but prefers reading ov
 * Result 3:
 Mr.Badi, an Indonesian Chinese who is at the age around 68 said he didn't listen to music anymore as he was being old and he admitted that music reminds his past memory.He prefers face-to-face communication rather than online and he doesn't mind talking and share his life story with strangers unless they're in the same community.
 
-## Prototype Testing
-* Results:
-We have categorised music as Blues,Opera,Jazz Classic Music and so on, one of the user suggested to change them to the type of mood . He beleives person enjoys music when he has feelings. Feelings can be happy, emotional, patriotic or devotional.One needs to be in particular feeling to enjoy music and that is described by his mood. You cannot listen to patriotic songs when you are emotional. Lyrics of the songs make meaning when they match with your mood that time.
-We must include options to display events sorted according the nearest location to them. Elders are mostly dependent upon others for commuting and also do not want to travel long distance and are particularly interested to attend events close to them.
+## Prototype Testing Results:
+* We have categorised music as Blues,Opera,Jazz Classic Music and so on, one of the user suggested to change them to the type of mood . He beleives person enjoys music when he has feelings. Feelings can be happy, emotional, patriotic or devotional.One needs to be in particular feeling to enjoy music and that is described by his mood. You cannot listen to patriotic songs when you are emotional. Lyrics of the songs make meaning when they match with your mood that time.
+* We must include options to display events sorted according the nearest location to them. Elders are mostly dependent upon others for commuting and also do not want to travel long distance and are particularly interested to attend events close to them.
+* Sharing stories in our prototype seems to be confusing and a long process . It needs to be simplified.
+* Not everyone wants to share their pics with public, some user wants to share only with friends or family.
