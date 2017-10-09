@@ -1,3 +1,4 @@
+
 # Questions
 * Do you listen to music at your free time?
 * What kind of music do you preferred?
@@ -16,6 +17,18 @@
 * Do you join any social clubs to skill your time?
 
 # Results
+## Interviews:
+Introduction : The interviews were conducted on 29/09/2017 at Brisbane Square library with three elders.Our team created prototype with the screens elaborating the process to share and read stories related to the music. The intervies were conducted to research if elders prefer sharing their stories online or face to face.To progress with the additional features that let user create events and share their stories with other peolpe, it was necessary to know if elders like to talk to strangers and how important is being social in their lives.The aim of interviews was to find out what will help them develop relationships and getting social with strangers through music.
+
+* Result 1:
+The first person we met was Scottish and was very fond of music. He believes that music is in our soul and also is the language of world. It brings people together. Even if he does not understand the lyrics he enjoys the rhythm. He likes meeting people, attending music concert and even if someone is singing on street , he enjoys listening to them .Also , believes in making and sharing memories. He takes photos with those street musicians or like buying music magnets or similar things from them. He does not mind sharing his strangers with the like minded people.He also stated that he does not want to share stories with family as they donot have that respect for his likes . He prefers sharing music with those who too respect music .He likes being social and meeting and talking to peole. He said that we must have events where people from any origin are allowed to enjoy music. Even if they cannot sing but can enjoy songs by tapping their foot, clapping or whisteling.
+
+* Result 2:
+The second person we interviewed likes listening to music but prefers reading over music. He likes listening to Folks and blues. He is in his late 70's, retired from Army but still unmarried.He has got very few friends and do not like meeting people. To him the importance of having such app is just reading others stories. He enjoys reading a lot and that is his favourite pass time.From this interview I concluded that we must keep the feature of recording stories and sharing them online for those people who are alone to enjoy and learn from others. 
 
 * Result 3:
 Mr.Badi, an Indonesian Chinese who is at the age around 68 said he didn't listen to music anymore as he was being old and he admitted that music reminds his past memory.He prefers face-to-face communication rather than online and he doesn't mind talking and share his life story with strangers unless they're in the same community.
+
+## Prototype Testing
+Results:
+We have categorised music as Blues,
