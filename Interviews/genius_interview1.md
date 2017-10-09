@@ -1,3 +1,4 @@
+. 
 ## Questions
 Before we could start creating Music app for elders , we decided to interview elders to find out their views about the app. Also to aid us in designing, we needed to find out what technology and app they are currently using .Followings are the questions we asked in the first interview:
 * Do you have any mobile devices?
@@ -24,6 +25,18 @@ Before we could start creating Music app for elders , we decided to interview el
 
 *Interview 3:* He is  retired , age 76  and very proficient user and also knows how to create apps and websites. He likes sports and music . He uses iphone to connect with family using facebook and skype. He do not like writing messages but instead uses sending voice messages or making call. He feels that voice helps you recognise emotions of others and also help others conveying your emotions with messages more effectively than writing text. When asked about our Music app , he said that it is great idea and he would like to sing and share music and stories with grandchildren if we have options to record stories in his voice. Currently , he has been using skype to share his cooking with grandchildren.Also , suggested to put options that enable us to select from various option rather than inputting text.
 
+*Interview 4:* She is from China, her name is Lanpo ;69 years old. Now living in Brisbane. She has three children, two sons and one daughter. The eldest son is a doctor, the youngest son is a lawyer, and they all work in Brisbane. Daughter working in Melbourne is a financial analyst. Lanpo does not use a smartphone, and she uses a mobile phone that is the easiest phone. As for her, the phone's function is only a call function.
+
+She is an opera lovers, every day will spend a lot of time, keep in front of the TV watching Peking Opera performances. And she was very loyal to follow the TV to play the Opera performances, to imitate and learn. She has no interest in learning all new electronic products or mobile software because she feels it very difficult to study. At the same time, she felt it was hard to find someone who was the same as her, sharing and discussing Opera with her.
+
+
+*Interview 5:* Jan is a 67 year old woman. She has worked as a language teacher at QUT. She has no children. She is now using the phone is the iPhone 5, has been used for several years, but she still can not understand a lot of features. She used the function is: take pictures, send text messages and call. She does not know how to use the phone to listen to music.
+  She usually likes to buy music CDs and listen to music at home through sound. She likes the type of music is the symphony, because she has to symphony concert hobbies. Her husband is also loyal to accompany her to listen to the concert.
+
+# sumary
+Through the interview, I found the elderly in this age, for how to learn the use of mobile phone software or mobile phone function without any power and interest, because learning a new skill is too complicated for them.
+Relative to the mobile phone software, they are more inclined to use their familiar equipment to listen to music, such as Lanpo like watching TV, listening to Peking opera from the TV. Jan likes to buy a disc, use a CD player to listen to symphony.
+So through interviews, I found that if you want to design music device for the elderly group, starting from the actual needs and habits of the elderly
 ## Summary
 Based on the gathered results, we found out that the majority of the seniors have their own smartphone and they use their phone mainly for sending messages, making phone calls and reading some news on.However, they seldom use the smartphone for listening music due to some reasons.For example, Xu who is a 65 years old lady born in Hong Kong but living in Brisbane for more than 30 years preferred listening CD music rather than online music because she only gets 3GB mobile data monthly and she doesn't want to pay the extra fee for the data.Another gentleman Kiwi, ages 72 saying he dislikes music applications as he has some technical problems on creating his person playlist.But he likes listening to whatever music played on the radio because he doesn't need to worry about interrupting his work on changing music.Not only Kiwi but most of our participants express their preference on listening music through CD and radio channels.
 
