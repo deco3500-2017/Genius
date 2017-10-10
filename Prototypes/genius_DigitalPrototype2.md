@@ -1,1 +1,11 @@
-
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/Home%20page.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/Sencond%20page.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/Android%20Mobile%20%E2%80%93%202.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/Android%20Mobile%20%E2%80%93%203.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/Android%20Mobile%20%E2%80%93%204.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/Android%20Mobile%20%E2%80%93%206.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/Android%20Mobile%20%E2%80%93%207.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/Android%20Mobile%20%E2%80%93%205.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/Android%20Mobile%20%E2%80%93%201.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/my%20favourite.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/my%20favourite%202.png)
