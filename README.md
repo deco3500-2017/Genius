@@ -47,6 +47,9 @@ Most developed-world countries have accepted the chronological age of 65 years a
 
 For the study of old age in Africa,the World Health Organization set 50 as the beginning of old age. However,the definition of seniors is slightly different among developing countries and developed countries according to the Wikipedia.The majority of developed-world countries have agreed that senior citizens are those people with the chronological age of 65 years while citizens with age 60+ will be considered as seniors in most developed countries.Based on this situation,the application MusicLife will use Australian senior difinition as our target audience group which is people with the age of 60+ and do not work full time.
 
+### User Story
+1. Meicai who is 69 years old now always shares her life story to her grandchild when she listens to some songs like Parade March of the PLA in the radio or TV.As she is borned in 1940s which is the new period of China,all the popular songs are talkig about founding China and how people fight for their life and their country.Meicai still remember everyone surrounding her are always with smiles on their face and everyone is hard working,trying to help developing new China.She always told her grandchild to be thankful and cherish the life they have currenlty as a lot of people died during the hard developing time.Hence,she wants to use MusicLife to create a physical event in the exciting/happy category and share her music stories of Parade March of the PLA to other strangers,letting more people know how Chinese fight for life and freedom. 
+
 ### Conceptual Model:
 
 ***Functions of the App:***
