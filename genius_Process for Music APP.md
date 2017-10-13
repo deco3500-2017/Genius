@@ -9,6 +9,7 @@ Such as smiling face expression of happy type of music, tears of expression on b
 
 Paper Prototype I
 This is our group began to do the paper prototype, after the first round of the test. We found a lot of problems in our design.
+ 
  ![image](https://github.com/deco3500-2017/Genius/blob/master/paperprototype.png）
 
 Feedback from users I
@@ -29,6 +30,7 @@ Tutor gave us a lot of suggestions. We intend to follow our tutor's advice for o
 
 Paper Prototype II
 Through the group discussion, and summed up the results of various feedback, we improved the prototype.
+
 ![image]（https://github.com/deco3500-2017/Genius/blob/master/interface.pdf）
  
 Then we also made a digital prototype, began a new round of user testing. In the course of the test we found a huge problem.
