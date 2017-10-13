@@ -59,6 +59,9 @@ He likes to listen to Beijing opera when he is young, but his family is poor and
 In order to be able to enter the cinema to listen to a Beijing opera, he began to work to earn the theater tickets. A lot of work cannot accept him because he was only 8 years old. So he began to recycle waste bottles, to earn tickets money. And finally, in his 10 years old, earn enough tickets for money, and saw his life first Beijing opera - Farewell My Concubine.
 So until now, when Zhihong heard Farewell My Concubine, he will be excited, he will think of his story that year, and his hard work in exchange for tickets that day.
 
+6.Susan is a 69-year-old woman; she does not particularly like the type of music. But she has a piano music has a kind and familiar feeling. Whenever she heard the piano music, her whole heart is full of memories of past life and endless memories of the mother.
+Because with her mother, is a piano lover, playing the piano every day. And Susan is a woman who grows up in the piano every day. So whenever she heard the sound of the piano, she remembered the day she was with her mother when she was young.
+
 ### Conceptual Model:
 
 ***Functions of the App:***
