@@ -29,5 +29,9 @@ The second person we interviewed likes listening to music but prefers reading ov
 * Result 3:
 Mr.Badi, an Indonesian Chinese who is at the age around 68 said he didn't listen to music anymore as he was being old and he admitted that music reminds his past memory.He prefers face-to-face communication rather than online and he doesn't mind talking and share his life story with strangers unless they're in the same community.
 
+* Paul is from New Zealand and is very strongly devoted to his cultural music. He likes Haka music and dance. He used to dance at schools,and during special events and festivals. Also, he has a collection of music with chants and choral singing to graceful action songs and ferocious war dances.Even now he cannot dance like before, but likes playing that music as he believes that music has emotions that can let anyone stamp foot and slap thigh thus encouraging physical movement. He would like to share his collection and stories with people to initiate physical movements and spread their Kiwi culture.
+
+* As a retired person, Mark is very social and volunteers at Upper Coomera Community centre. He keeps organising events like board games,communication groups and kneating together for elders to come along. He wants to organise event where elders can get a chance to show their singing talent and share their life stories related to any piece of music.He keeps orgainising event where elders bring cooked food to share receipe  or something favourite to share with others. Similarly ,he wants to organise event to let others share their wedding ,birthday or other memories with the music. He beleives that elders need someone to talk and feel pleasant when listened and shown respect. It boosts their energy and love for life. Moreover, it keeps them busy and helps them improve physically and mentally.
+
 
 
