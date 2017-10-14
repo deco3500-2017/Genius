@@ -109,10 +109,10 @@ Level of user support -
 Activity to be supported - 
 
 ### Story Board ###
-### Story Board Example1 ###
+## Story Board Example1 ##
 ![Story](https://github.com/deco3500-2017/Genius/blob/master/storyboard1.png)
 ![Story](https://github.com/deco3500-2017/Genius/blob/master/storyboard2.png)
-### Story Board Example 2 ###
+## Story Board Example 2 ##
 ![Story](https://github.com/deco3500-2017/Genius/blob/master/board2.png)
 
 Our design journey started with designing various Paper Prototypes and then selecting one out of them that is close to our requirements.
