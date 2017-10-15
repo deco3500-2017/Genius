@@ -114,6 +114,8 @@ Activity to be supported -
 ![Story](https://github.com/deco3500-2017/Genius/blob/master/storyboard2.png)
 ## Story Board Example 2 ##
 ![Story](https://github.com/deco3500-2017/Genius/blob/master/board2.png)
+## Work in progress on Poster ##
+![Poster] (https://github.com/deco3500-2017/Genius/blob/master/poster.png)
 
 Our design journey started with designing various Paper Prototypes and then selecting one out of them that is close to our requirements.
 
