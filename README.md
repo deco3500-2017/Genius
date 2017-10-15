@@ -115,7 +115,7 @@ Activity to be supported -
 ## Story Board Example 2 ##
 ![Story](https://github.com/deco3500-2017/Genius/blob/master/board2.png)
 ## Work in progress on Poster ##
-![Poster] (https://github.com/deco3500-2017/Genius/blob/master/poster.png)
+![Poster](https://github.com/deco3500-2017/Genius/blob/master/poster.png)
 
 Our design journey started with designing various Paper Prototypes and then selecting one out of them that is close to our requirements.
 
@@ -124,3 +124,4 @@ Our design journey started with designing various Paper Prototypes and then sele
 Totally 2 interviews and 4 prototypes was conducted during the project MusicLife.
 ## Decisions 
 ## References 
+)
