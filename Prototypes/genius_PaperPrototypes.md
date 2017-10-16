@@ -45,4 +45,4 @@ Based on our prototype and interview , we have found that elders do not like to 
 * Auto Playlists is required.
 
 ## Decisions making
-As 
+Based on the receiving feedbacks from seniors, most of the seniors express their preference on an application with big texts and buttons rather than a fancy design application.Our team refined the design a little bit, big square tabs are created on top and will be used to separate different pages such as Home, Music Application, Cover Song and My favorite.Text buttons are used as main button styles instead of using icon buttons, reducing the confusions of users.In addition, download function is not taken into considerations as some seniors might not have enough mobile data to download a song or it's a bit difficult for them to learn how to download the song.To make the application easier to use, our team decided to provide online music services only.
