@@ -12,6 +12,6 @@ Name | Things that need to be done before next standup
 ------------ | -------------
 Reginald | Work on the document and put stuff to the poster after Ariel finished
 Bhawna | Content in the second column
-Ariel | Take part in accomplishing final group report.
+Ariel | Work on final group report by taking academic research part, design the layout and structure of conference poster.
 Lu | 
 Erica | Work on the problem dmain & demographic documentation and the assigned tasks by the team.
