@@ -6,15 +6,14 @@ MusicLife is an application that aims to provide a social platform for elders to
 
 ## Research
 ### Academic Studies
+
+Music is an important part which can provide old people benefits for life quality by contributing to positive self-esteem, by helping people feel competent and independent, and by lessening feelings of isolation and loneliness (Hays &  Minichiello, 2005). By sharing and participating of music, the seniors could feel joyful and enjoyable, release stress and receive positive emotions (Lehmberg & Fung, 2010). Since physical, psychological and social areas are defined as major components of quality of life (Kane, 2001), it is logical to conclude that active music participation and sharing has a positive effect on the quality of life of senior citizens.
+
 Through the research of the trends and features of the elderly in Australia of using digital communication methods, there are 
 some evidence shows the Australian elderly would like to download applications on phones than before, they use devices which
-provide online service more frequently, and they are more likely to choose phones for online surfing (“Australians’ digital lives”, 2015). 
+provide online service more frequently, and they are more likely to choose phones for online surfing (“Australians’ digital lives”, 2015).
 
-Music is an important part which can provide old people benefits for life quality  by contributing to positive self-esteem, by helping people feel competent and independent, and by lessening feelings of isolation and loneliness. (Hays &  Minichiello, 2005). By sharing and participating of music, the seniors could feel joyful and enjoyable, release stress and receive positive emotions ( Lehmberg & Fung, 2010). Since physical, psychological and social areas are defined as major components of quality of life (Kane, 2001), it is logical to conclude that active music participation and sharing has a positive effect on the quality of life of senior citizens.
-
-How is music impacts human`s Brain, Emotions and memories
- 
-From the drumbeats of our ancient ancestors to today’s unlimited streaming services, music is an integral part of the human experience. Music is a common phenomenon that crosses all borders of culture, nationality and race. Music is a tool for inspiring memories, emotions and feelings. Music has more powerful than language. Music can be thought of as a type of perceptual illusion, much the same way in which a collage is perceived. As evidence that humans are the principal source of emotionality among human and artifacts, consider human visual signs.
+In terms of the impacts of human's brains, emotions and memories by music, from the drumbeats of our ancient ancestors to today’s unlimited streaming services, music is an integral part of the human experience. Music is a common phenomenon that crosses all borders of culture, nationality and race. Music is a tool for inspiring memories, emotions and feelings. Music has more powerful than language. Music can be thought of as a type of perceptual illusion, much the same way in which a collage is perceived. As evidence that humans are the principal source of emotionality among human and artifacts, consider human visual signs.
  
 According to a large number of data survey shows that everyone has heard a certain period or a familiar music and then aroused a memory or emotional experience. When people hear familiar music, memory and music will resonate. People's emotions tend to be with the ups and downs of music and the lyrics of the content, resulting in different mood ups and downs with different memories. So many people listen to music at the same time, will be accompanied by their own emotions, and understanding of the lyrics.
  
@@ -123,5 +122,5 @@ Our design journey started with designing various Paper Prototypes and then sele
 ## Interview & Prototypes
 Totally 2 interviews and 4 prototypes was conducted during the project MusicLife.
 ## Decisions 
-## References 
-)
+## References
+
