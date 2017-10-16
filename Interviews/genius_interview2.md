@@ -34,4 +34,6 @@ Mr.Badi, an Indonesian Chinese who is at the age around 68 said he didn't listen
 * As a retired person, Mark is very social and volunteers at Upper Coomera Community centre. He keeps organising events like board games,communication groups and kneating together for elders to come along. He wants to organise event where elders can get a chance to show their singing talent and share their life stories related to any piece of music.He keeps orgainising event where elders bring cooked food to share receipe  or something favourite to share with others. Similarly ,he wants to organise event to let others share their wedding ,birthday or other memories with the music. He beleives that elders need someone to talk and feel pleasant when listened and shown respect. It boosts their energy and love for life. Moreover, it keeps them busy and helps them improve physically and mentally.
 
 
+## Result Summary
+## Decisions
 
