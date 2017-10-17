@@ -30,6 +30,7 @@ The top artists for the average 64-year-old listener include a mix of currently 
 ## Concept
 ### Problem Domain
 
+
 ### Demographic
 Most developed-world countries have accepted the chronological age of 65 years as a definition of 'elderly' or older person. The United Nations has agreed that 60+ years may be usually denoted as old age and this is the first attempt at an international definition of old age. However, for its study of old age in Africa, the World Health Organization set 50 as the beginning of old age. At the same time, the WHO recognized that the developing world often defines old age, not by years, but by new roles, loss of previous roles, or inability to make active contributions to society. (En.wikipedia.org, 2017)
 
@@ -81,20 +82,26 @@ As we are required to design app , we must know what apps are being used by our 
 
 ***How are functions related to each other?***
 
+
 ***What information needs to be available?***  
+
 
 ***Data required to perform task:***               
             
-***Form of the solution -*** This Music app will be an interactive app with Icons, menus and clear text on Pages that can be swiped  to navigate through app.
+            
+***Form of the solution -*** 
+This Music app will be an interactive app with Icons, menus and clear text on Pages that can be swiped  to navigate through app.
 Level of user support - 
 Activity to be supported - 
 
-### Story Board ###
-## Story Board Example1 ##
+## Story Board ##
+### Story Board Example1 ###
 ![Story](https://github.com/deco3500-2017/Genius/blob/master/storyboard1.png)
 ![Story](https://github.com/deco3500-2017/Genius/blob/master/storyboard2.png)
-## Story Board Example 2 ##
+
+### Story Board Example 2 ###
 ![Story](https://github.com/deco3500-2017/Genius/blob/master/board2.png)
+
 ## Work in progress on Poster ##
 ![Poster](https://github.com/deco3500-2017/Genius/blob/master/poster.png)
 
@@ -104,6 +111,7 @@ Our design journey started with designing various Paper Prototypes and then sele
 Totally 2 interviews and 4 prototypes was conducted during the project MusicLife.
 
 ## Decisions 
+
 
 ## References
 Hays, T. and Minichiello, V. (2005). The meaning of music in the lives of older people: a qualitative study. Psychology of Music, 33(4), pp.437-451.
