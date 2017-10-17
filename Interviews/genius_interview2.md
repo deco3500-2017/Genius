@@ -35,5 +35,5 @@ Mr.Badi, an Indonesian Chinese who is at the age around 68 said he didn't listen
 
 
 ## Result Summary
-## Decisions
+
 
