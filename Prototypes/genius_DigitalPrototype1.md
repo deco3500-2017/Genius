@@ -51,9 +51,3 @@ Questions for 2nd prototype
 * We must include options to display events sorted according the nearest location to them. Elders are mostly dependent upon others for commuting and also do not want to travel long distance and are particularly interested to attend events close to them.
 * Sharing stories in our prototype seems to be confusing and a long process . It needs to be simplified.
 * Not everyone wants to share their pics with public, some user wants to share only with friends or family.
-### Updating Prototype ###
-![event interface](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/eventprototype.jpeg)
-
-In our discussion of the group, we decided to simplify the function of this turntable. So remove some of the cumbersome options and details. This makes it easier for older people to use.
-### Updating Prototype ###
-![event interface](file:///C:/Users/windows%207/Documents/Tencent%20Files/1924407852/FileRecv/MobileFile/IMG_7458.JPG)
