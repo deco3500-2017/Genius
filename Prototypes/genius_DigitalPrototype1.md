@@ -46,7 +46,7 @@ Questions for 2nd prototype
 1. How do you meet new friends?
 1. Do you join any social clubs to kill your time?
 
-## Prototype Testing Results:
+## Testing Results Summary:
 * We have categorised music as Blues,Opera,Jazz Classic Music and so on, one of the user suggested to change them to the type of mood . He beleives person enjoys music when he has feelings. Feelings can be happy, emotional, patriotic or devotional.One needs to be in particular feeling to enjoy music and that is described by his mood. You cannot listen to patriotic songs when you are emotional. Lyrics of the songs make meaning when they match with your mood that time.
 * We must include options to display events sorted according the nearest location to them. Elders are mostly dependent upon others for commuting and also do not want to travel long distance and are particularly interested to attend events close to them.
 * Sharing stories in our prototype seems to be confusing and a long process . It needs to be simplified.
