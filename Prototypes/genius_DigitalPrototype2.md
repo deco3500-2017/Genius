@@ -16,7 +16,7 @@ In our discussion of the group, we decided to simplify the function of this turn
 ### Updating Prototype ###
 ![event interface](file:///C:/Users/windows%207/Documents/Tencent%20Files/1924407852/FileRecv/MobileFile/IMG_7458.JPG)
  ## User feedbacks
- ![testing](https://github.com/deco3500-2017/Genius/blob/master/testingatagecare)
+ ![testing](https://github.com/deco3500-2017/Genius/blob/master/testingatagecare.png)
  The testing session was held at Estia Health Gold Coast with three adults og age 72,80 and 85. All of them were given app to interact and then the spinner to play with. I explained them the aim of our project but didnot explained the meaning of buttons and images used in our interface design to see if they can understand by themselves without explaining. The results gathered have been listed below: 
  Interface design
  The spinner was very simple and clear to them. They all enjoyed playing music, recording their voice and then playing it. They all believed that it was easy. The labels make sense and create no confusion. The like button is obvious to like others stories or music.Play music plays music and like in radio they press same button to turn on and off. They enjoyed interacting with it physically . I asked them what if it has been projected on a wall and they have to select using a device. They all said that they are not very keen to learn new technology.They want to do something that looks familiar and does not involve learning.
