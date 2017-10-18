@@ -34,3 +34,6 @@ Our group's original design concept is to use the mini project to project the sp
 "I would prefer to be able to touch the physical device, such as mahjong, poker, and so on, compared to the projector."
 "The physical equipment will make me more comfortable to use." The projector make me feel that the operation is not particularly comfortable.
 
+## Summary
+According to the testing result we collected,the spinner idea is working as most of the seniors thought the idea is interesting and expressed a willingness of try.As the spinner is physical and it is a normal daily item,seniors indicated that they feel more comfortable while using it.However,the idea of the spinner concept is not perfect and it lacks of details which result in confusions.To implement the spinner concept better,some of the seniors suggested to simplify the spinner interface.For example,is it neccessary to include the songs in the spinner because therehave some possibilities that seniors are not interested at the provided song.In addition,elderlys dislike complex applications and it's important for the team to consider about how to make both of application and spinner easy to use and navigate.
+
