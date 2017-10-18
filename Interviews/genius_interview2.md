@@ -35,5 +35,5 @@ Mr.Badi, an Indonesian Chinese who is at the age around 68 said he didn't listen
 
 
 ## Result Summary
-
+From the second interview we did during the mid-break, we had found that the majority of the seniors are open-minded people and they love to share their stories to those people who will respect them and have the same interest and they don't mind talking with strangers.A lot of participants agreed that music had a strong power on people and some pieces of music can remind their related memory to that music which they wanted to share with other people.During the interview, we also found that the preferred way of story sharing among elderly is face-to-face communication as body language and eye contacts help a lot to explain their feelings.Besides, some participants expressed they are not a fan of being social but they would like to read the story of other people from books or online and they preferred talking with those people who are in the same community as themselves.
 
