@@ -1,5 +1,5 @@
-. 
-## Questions
+## Interview One
+### Questions
 Before we could start creating Music app for elders , we decided to interview elders to find out their views about the app. Also to aid us in designing, we needed to find out what technology and app they are currently using .Followings are the questions we asked in the first interview:
 * Do you have any mobile devices?
 * How will you utilize your devices? Will you use it to listen to music?
@@ -39,7 +39,10 @@ Based on the gathered results, we found out that the majority of the seniors hav
 
 However, some of them express going to church to listening carol is their major platform of approaching music but they are willing to use a mobile music application to share their favorite songs and stories with their family and friends as well to keep the relationship closer.They also suggested making the application easy to use by using some simple motions such as dragging, clicking and swapping.In addition, big text and big buttons are important for seniors and Liang another 72 years old lady said that she actually didn't care about the interface is fancy or not and she is more focus how easy the application is to use and understand.She also indicated that using the design of some tropical daily items can help them get familiar with the application which means it should look like an actual item.For example, simulating a radio design for playing music is easy for them understanding how to change the song or channel.
 
-Through the nterviews, we also conclude that  the elderly in this age, for how to learn the use of mobile phone software or mobile phone function without any power and interest, because learning a new skill is too complicated for them.
-
+Through the interview, we had found the elderly in this age, for how to learn the use of mobile phone software or mobile phone function without any power and interest, because learning a new skill is too complicated for them.
 Relative to the mobile phone software, they are more inclined to use their familiar equipment to listen to music, such as Lanpo like watching TV, listening to Peking opera from the TV. Jan likes to buy a disc, use a CD player to listen to symphony.
+So through interviews, we found that if you want to design music device for the elderly group, starting from the actual needs and habits of the elderly. 
+
+
+
 
