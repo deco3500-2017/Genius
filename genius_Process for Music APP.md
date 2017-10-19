@@ -44,4 +44,4 @@ Feedback from users II
 Summary
 
 According to our group's repeated discussions, user feedback and follow the tutor's advice. We decided to completely put our original idea of designing app into a more suitable to meet the habits of the elderly equipment.
-So after our further discussion and discussion, we came up with a lot of ideas, and finally we decided to do a "spinner", in a way of the game, let the elderly share music, tell their own stories and interact with others.
+So after our further discussion and discussion, we came up with a lot of ideas, and finally we decided to do a "spinner", in a way of the game, let the elderly share music, tell their own stories and interact with others. 
