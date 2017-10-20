@@ -10,6 +10,15 @@
 ![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/My%20Event%202.png)
 ![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/Delete%20Event.png)
 ![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/Delete.png)
+## Testing results
+![testing](https://github.com/deco3500-2017/Genius/blob/master/testingatagecare.png)
+ The testing session was held at Estia Health Gold Coast with three adults og age 72,80 and 85. All of them were given app to interact and then the spinner to play with. I explained them the aim of our project but didnot explained the meaning of buttons and images used in our interface design to see if they can understand by themselves without explaining. The results gathered have been listed below: 
+ Interface design
+ The spinner was very simple and clear to them. They all enjoyed playing music, recording their voice and then playing it. They all believed that it was easy. The labels make sense and create no confusion. The like button is obvious to like others stories or music.Play music plays music and like in radio they press same button to turn on and off. They enjoyed interacting with it physically . I asked them what if it has been projected on a wall and they have to select using a device. They all said that they are not very keen to learn new technology.They want to do something that looks familiar and does not involve learning.
+ 
+ App was though little confusing.One of them suggested to remove the features of uploading  images and videos as it will again involve learning to first save them in mobile and then  uploading it. She suggested that during event they can bring along and show it to all.
+ 
+ Also , taking turns on spinner was not clear to them. One of them suggested to display the name on spinner for turn taking. When booking for event, we input our name ,that name should be displayed on spinner.
 ## Feedbacks from Standups
 * Current prototype design doesn't look like an actual product and looks more like an application mockup as no examples are given.For example, it displays "xxx" at the event page and it's hard to understand the concept without the explanations.
 * This application is related to music but music content has hidden so deep in the application.The application is more like an event platform rather than a music application.
