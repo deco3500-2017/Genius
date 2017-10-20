@@ -108,7 +108,9 @@ Activity to be supported -
 Our design journey started with designing various Paper Prototypes and then selecting one out of them that is close to our requirements.
 
 ## Interview & Prototypes
-Totally 2 interviews and 4 prototypes was conducted during the project MusicLife.
+Totally 2 interviews and 4 prototypes was conducted during the project MusicLife and our team had changed our origianl idea dramatically based on the receiving feedbacks from the prototypes and interviews.Accoridng to the difference between the previous concept and current concept,we split the whole design process into following stages.
+### Stage 1
+### Stage 2
 
 ## Decisions 
 ### Stage 1:
