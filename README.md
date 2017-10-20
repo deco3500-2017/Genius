@@ -111,6 +111,25 @@ Our design journey started with designing various Paper Prototypes and then sele
 Totally 2 interviews and 4 prototypes was conducted during the project MusicLife.
 
 ## Decisions 
+### Stage 1:
+At the beginning after the team is formed, we were interested in the educational apps that have translate function and learn new language. However, after we did a lot of discussion and shared our idea, we find out something more interested then the translation app. At last, we decided to do a app that can share music and your own story for elderly.
+### Stage 2:
+Based on the receiving feedbacks from seniors, most of the seniors express their preference on an application with big texts and buttons rather than a fancy design application. Our team refined the design a little bit, big square tabs are created on top and will be used to separate different pages such as Home, Music Application, Cover Song and My favourite. Text buttons are used as main button styles instead of using icon buttons, reducing the confusions of users. In addition, download function is not taken into considerations as some seniors might not have enough mobile data to download a song or it's a bit difficult for them to learn how to download the song. To make the application easier to use, our team decided to provide online music services only and the idea of using emoji as a category is changed to using text only to separate different kinds of music. Hence, the seniors can know what kinds of music experience they are interested in easily.
+ 
+Moreover, the purpose of our application is letting seniors share their life experience or experience on music to the strangers to contribute to current society. Our team decided to focus on the sharing aspect, but what we are concerned about is the way of sharing music/life experience. In terms of daily observation, the normal way of application sharing is posting online or leaving comments. But these kinds of ways are more used by younger generation rather than seniors. The seniors might have a huge different preference on mobile sharing. To improve the application usability, it's important to find out the sharing habits of seniors. Hence, another interview is designed to figure out what would be the best way for elderly to sharing their stories. Although the seniors indicated that they don't mind the interface design is ugly, our team still believed a clean layout design will guarantee a better user experience. Thus, in the aspect of application interface design, our team is more focus on placing elements such as buttons and tabs orderly and logically and adjusting sizes to create a clean and logic application interface. 
+ 
+ ### Stage 3:
+ After we have a conclusion at stage 2, the next step is to decide how the prototype will be done. First of all, we have sketched the paper prototype to have a rough design. After that, we need to find out which application is suitable for our team to make the digital prototype. We have few choices include Adobe XD, sketches, inVision and Unity, and our team has difficulty to make a choice between these apps because we require an app that is functional and interactive. After our tutors gave us the feedback, we decided to use Adobe XD to make the prototype base on the low learning curve and easy to use. 
+
+### Stage 4:
+Base on the user testing at the stage 3, we found out actually most of the senior is not interested in listening music, they prefer meet each other in physically. Therefore, we have changed our idea to an app that can create event and let others join. The event to let senior gathering together and share their own stories. Nevertheless, we changed our prototype to select your current emotion instead of choosing music catalog.
+
+### Stage 5:
+At first, we decided to use a digital spinner, however, the interview said they would like to use a physical spinner rather than a digital one, so we designed a spinner which is physical using paper and makeymakey to make it function.
+
+### Stage 6:
+The app was told that it cannot see the music part by tutor, it is too deep in the app to find out, so we make it clear to see it.
+
 
 
 ## References
