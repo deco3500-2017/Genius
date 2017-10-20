@@ -15,16 +15,7 @@
 In our discussion of the group, we decided to simplify the function of this turntable. So remove some of the cumbersome options and details. This makes it easier for older people to use.
 ### Updating Prototype ###
 ![event interface](file:///C:/Users/windows%207/Documents/Tencent%20Files/1924407852/FileRecv/MobileFile/IMG_7458.JPG)
- ## User feedbacks
- ![testing](https://github.com/deco3500-2017/Genius/blob/master/testingatagecare.png)
- The testing session was held at Estia Health Gold Coast with three adults og age 72,80 and 85. All of them were given app to interact and then the spinner to play with. I explained them the aim of our project but didnot explained the meaning of buttons and images used in our interface design to see if they can understand by themselves without explaining. The results gathered have been listed below: 
- Interface design
- The spinner was very simple and clear to them. They all enjoyed playing music, recording their voice and then playing it. They all believed that it was easy. The labels make sense and create no confusion. The like button is obvious to like others stories or music.Play music plays music and like in radio they press same button to turn on and off. They enjoyed interacting with it physically . I asked them what if it has been projected on a wall and they have to select using a device. They all said that they are not very keen to learn new technology.They want to do something that looks familiar and does not involve learning.
- 
- App was though little confusing.One of them suggested to remove the features of uploading  images and videos as it will again involve learning to first save them in mobile and then  uploading it. She suggested that during event they can bring along and show it to all.
- 
- Also , taking turns on spinner was not clear to them. One of them suggested to display the name on spinner for turn taking. When booking for event, we input our name ,that name should be displayed on spinner.
- 
+ ## User feedbacks 
 In the interview to the three old people, they are on the appearance of the spinner design are more satisfied, but the elderly hope that if more makes the interface more concise will be better.
 
 "I like the spinner of your design, but it is better if you can be more concise, such as the area on each part of the keyboard is too much."
