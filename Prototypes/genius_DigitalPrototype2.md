@@ -20,8 +20,7 @@ In the interview to the three old people, they are on the appearance of the spin
 
 "I like the spinner of your design, but it is better if you can be more concise, such as the area on each part of the keyboard is too much."
 
-design concept
-The old people at Estia Age care meet during morning time everyday or during movie time. Generally during morning tea they do some art work and chat with each other. This concept was new and interesting to them.they expressed that sometimes it is hard to keep conversation going but as everyone love music ,we never thought to include it in our get togethers. Also listening to others  stories encourages them that they are respected and cared for. 
+### design concept
 
 The old people expressed a high interest in our idea, and they expressed their willingness to participate in the spinner. But at the same time, they also have some confusion about this design. For example, if the choice of songs is not what they are interested or familiar with how to do? How do I join this event? Is it necessary to register or join?
 
@@ -29,7 +28,7 @@ The old people expressed a high interest in our idea, and they expressed their w
 "I think your design needs to be perfect because a lot of content makes me feel there is room for improvement and possible."
 "Interesting but also confuse."
 
-Functional design
+### Functional design
 
 Our group's original design concept is to use the mini project to project the spinner; the idea can make the elderly anytime, anywhere in any occasion to use. But the old man does not like the idea very much.
 
