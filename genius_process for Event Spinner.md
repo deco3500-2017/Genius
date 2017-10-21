@@ -42,3 +42,6 @@ Section C and D: C is a big button "YES", D is a big button "NO".
 
 - The following step might just be doing some user testing like interview to ask the users about will they prefer sharing music at a physical location with strangers or online.
 And will this app help to remind their stories this kind of stuff. 
+
+
+
