@@ -84,7 +84,29 @@ Spinner will be used at events by elders to share their songs, like others songs
 10.Take turns to express their emotions.
 11 Record their Music or play music using Spinner during Event.
 
-*** Inter
+*** How are Function related to each other ***
+The aim of App and spinner is to help elderly share their memories when trigerred while listening to music and meet people with the same interests for the music who are also eager to meet others and share stories with each other. The functions are related to each other in the app. One need to listen to the music under their selected mood. The more tab unser the songs will display the events related to that music.Join event tab is also under the song.If they do not find any event of their interest and wish to create their own,that function is available under that particular song. The following diagram shows how functions are related to each other:
+
+
+
+***What information needs to be available?            
+
+**Data required to perform task:**
+
+Data required to run the app: The most important data is music.Various music of interests and particularly that had been famous atleast 50 years ago. Selection of songs should be such to trigger memories or inspire elders to say something.Music has to be from most of the categories that had been in trend and famous during our their time.Most of the memories are from childhood, young age ,when they got married, had kids or grand children.So songs have to be during that era from all those occassions.
+
+**How are data transformed by system?**
+
+Initial data is the Music that must be updated in the app time to time . 
+App needs to take the location of the elder to search for events near them.
+App sends data like name, song to the Spinner.
+Spinner displays names of the person attending event together and help them in talking turns.
+      
+**Form of the solution**- MusicLife appp will be an interactive app with Icons, menus and clear text on Pages that can be swiped  to navigate through app.
+Spinner has easy touch interactions to play ,record and like.
+Level of user support - App and spinner both are simple and easy to use. Elders won't be required to learn something new. The buttons are similar to the existing apps and interactions.
+Activity to be supported -Helping elders to come together share their emotion snad stories with particular song.
+
 
 
 
