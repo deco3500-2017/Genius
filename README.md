@@ -108,8 +108,14 @@ Activity to be supported -
 Our design journey started with designing various Paper Prototypes and then selecting one out of them that is close to our requirements.
 
 ## Interview & Prototypes
-Totally 2 interviews and 4 prototypes was conducted during the project MusicLife and our team had changed our origianl idea dramatically based on the receiving feedbacks from the prototypes and interviews.Accoridng to the difference between the previous concept and current concept,we split the whole design process into following stages.
+Totally 2 interviews and 4 prototypes were conducted during the project MusicLife and our team had changed our original idea dramatically based on the receiving feedbacks from the prototypes and interviews.According to the difference between the previous concept and current concept, we split the whole design process into following stages.
 ### Stage 1
+At this stage, our concept is a mobile application only, allowing seniors to share their music and the application is still a draft.Hence, we designed the first interview and paper prototype at the same time in order to figure out if the application usability is high among seniors and what kind of application or application style design they preferred.Following is the brief summary of the first interview and paper prototype:
+
+According to the collected responses from seniors, we had found that the seniors do have their smartphone or mobile tablets but they use phones only for calling, texting and reading news purposes.The normal channel that seniors approach music is through radio, TV, CD, and church and most of them dislike listening online music due to several personal reasons.During the conversations, we also discovered the seniors would prefer to avoid using applications as they need to learn new technology but if the application is simple and easy enough for them to use, the elderly express a willingness to learn how to use it.
+
+In terms of interface design, seniors actually didn't care about if the interface is fancy or not, they more concerned on the big buttons with clear identification.For example, a big square button with big text in it is fine for the seniors as they know what they should do for the buttons.Also,to make it more easier to navigate,simple motions can be used as gestures for the application such as clicking & dragging.However,the questions we asked during the first interview and paper prototype is on the wrong track,as the main point of the application is to allowing seniors sharing music/life experiences.
+
 ### Stage 2
 
 ## Decisions 
