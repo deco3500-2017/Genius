@@ -26,5 +26,7 @@ According to the testing result we collected,the spinner idea is working as most
 As the spinner is physical and it is a normal daily item,seniors indicated that they feel more comfortable while using it.However,the idea of the spinner concept is not perfect and it lacks of details which result in confusions.To implement the spinner concept better,some of the seniors suggested to simplify the spinner interface.For example,
 is it neccessary to include the songs in the spinner because therehave some possibilities that seniors are not interested at the provided song.In addition,elderlys dislike complex applications and it's important for the team to consider about how to make both of application and spinner easy to use and navigate.
 
-Based on all the feedback, we made further changes. And improved the appearance of the turntable, 
+- Based on all the feedback, we made further changes. And improved the appearance of the turntable, 
 making the whole turntable becomes more simple, easy to operate.
+- There is the link for prototype (connect with makeymakey) :https://youtu.be/9jCKf3bqWJA
+- Link for user test：https://youtu.be/QNqIj3WkRtk
