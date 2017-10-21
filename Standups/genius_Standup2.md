@@ -22,5 +22,5 @@ Name | Things that need to be done before next standup
 Reginald | Research how elder use app to listen music, link every prototype pages toether using Ariel design.
 Bhawna | work in progress on poster and website. Record results from second prototype tests.
 Ariel | Have discussion with team for new digital prototype, design the whole layout of the prototype for new turn user test.
-Lu | Improve the prototype;get ready for the next phase of the user test, and sum up the test results.
+Lu | Improve the prototype and upload the new prototype on Github;get ready for the next phase of the user test, and sum up the test results.
 Erica | Summary the second prototype result and finish the product introduction.
