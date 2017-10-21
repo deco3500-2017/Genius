@@ -58,38 +58,38 @@ Because with her mother, is a piano lover, playing the piano every day. And Susa
 4. It will help elders to see the events under that song .Events are mood specif rather than particular song specific.Aim is to help eldely in same mood to get together to share stories for same mood and inspire each other.
 5. App will help elderly to create event too. They need to mention date,time, venue ,title and desccription about the event
 6. It will help  elders add their pictures and music to be used at event.
-7.App can display the list of events joined by the user.
+7. App can display the list of events joined by the user.
 8.The list of events sorts the events according to the distance.Elders can not travel long distance.Keeping in mind the App displays the nearest event first.
 
 ***Functions of the spinner***
 Spinner will be used at events by elders to share their songs, like others songs,record their stories or songs and then listen to them.
-1.Music added to the app can be played with the spinner.
-2.It displays the name of each Partion , with their music updated automatically by the app.
-3.It helps in turn taking.
-4.It has like button to like others stories.
-5.It has a record button to record voice.
+1. Music added to the app can be played with the spinner.
+2. It displays the name of each Partion , with their music updated automatically by the app.
+3. It helps in turn taking.
+4. It has like button to like others stories.
+5. It has a record button to record voice.
 6. It has Play button to play the music.
-7.It has button to play recording too.
+7. It has button to play recording too.
 
 ***What will Elders do?***
 1. Play music
 2. Read others stories.
 3. Share their own stories.
-4.Look for events near them.
-5.Register to attend existing event.
-6.Create event of their interest.
-7.Upload music,images to share on event.
-8.Listen to music categorised according to mood.
-9.Meet others during events, helping them grow socially.
-10.Take turns to express their emotions.
-11 Record their Music or play music using Spinner during Event.
+4. Look for events near them.
+5. Register to attend existing event.
+6. Create event of their interest.
+7. Upload music,images to share on event.
+8. Listen to music categorised according to mood.
+9. Meet others during events, helping them grow socially.
+10. Take turns to express their emotions.
+11.  Record their Music or play music using Spinner during Event.
 
 *** How are Function related to each other ***
 The aim of App and spinner is to help elderly share their memories when trigerred while listening to music and meet people with the same interests for the music who are also eager to meet others and share stories with each other. The functions are related to each other in the app. One need to listen to the music under their selected mood. The more tab unser the songs will display the events related to that music.Join event tab is also under the song.If they do not find any event of their interest and wish to create their own,that function is available under that particular song. The following diagram shows how functions are related to each other:
 
 
 
-***What information needs to be available?            
+***What information needs to be available?***           
 
 **Data required to perform task:**
 
