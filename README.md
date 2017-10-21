@@ -49,7 +49,7 @@ So until now, when Zhihong heard Farewell My Concubine, he will be excited, he w
 Because with her mother, is a piano lover, playing the piano every day. And Susan is a woman who grows up in the piano every day. So whenever she heard the sound of the piano, she remembered the day she was with her mother when she was young.
 7. Today is first of April, 8 years ago, Romeo recieved a call from Hosipital. At first he thought it is just a april fool and do not take it serious, but after few calls later, he finally accepted the truth and rush to the hospital. However, God get people, Romeo couldn't even have a chance to say goodbye to his wife. He was very regret and cannot forgive himself, he hate why he don  not trust the call so he can see his wife last time. After 8 years, he still can't step out of the shadow and live inside the endless remorse, 8 years past, he still imagine his wife will suddenly appear and say happy apirl fool. Today is also 1st April, he find an appp call MusicLife, Romeo wants to know more about this app so he download it. At the home page, he discover there is lots of emotion that can expres people currrent status, he click into the "yearning" and guess what? He find out he is not alone, there is lots of people who have same thing happened to them, and they shared a song named "Waiting for love". This song touch Romeo's heart and he decides it is the time to brace up and face his life as normal as before. He joined the event other people created, therefore he can share his story with others.
 
-### Conceptual Model:
+## Conceptual Model:
 
 ***Functions of the App:***
 1. It includes various songs categorised according to the mood.Elders would be required to tap the mood they are in or they want to listen to music.
@@ -102,12 +102,15 @@ App needs to take the location of the elder to search for events near them.
 App sends data like name, song to the Spinner.
 Spinner displays names of the person attending event together and help them in talking turns.
       
-**Form of the solution**- MusicLife appp will be an interactive app with Icons, menus and clear text on Pages that can be swiped  to navigate through app.
+**Form of the solution**
+MusicLife appp will be an interactive app with Icons, menus and clear text on Pages that can be swiped  to navigate through app.
 Spinner has easy touch interactions to play ,record and like.
+
 Level of user support - App and spinner both are simple and easy to use. Elders won't be required to learn something new. The buttons are similar to the existing apps and interactions.
+
 Activity to be supported -Helping elders to come together share their emotion snad stories with particular song.
 
-
+![Interface](https://github.com/deco3500-2017/Genius/blob/master/model.png)
 
 
 **Focused Groups:**
@@ -123,19 +126,6 @@ We need to test music apps with the group of elders who are fond of music and ca
 *Elders who are currently using Music Apps:*
 As we are required to design app , we must know what apps are being used by our elders and what do they like or hate about their current apps. This will help us know the layout, features and design properties they are comfortable with.
 
-***How are functions related to each other?***
-
-
-***What information needs to be available?***  
-
-
-***Data required to perform task:***               
-            
-            
-***Form of the solution -*** 
-This Music app will be an interactive app with Icons, menus and clear text on Pages that can be swiped  to navigate through app.
-Level of user support - 
-Activity to be supported - 
 
 ## Story Board ##
 ### Story Board Example1 ###
