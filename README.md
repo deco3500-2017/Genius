@@ -29,6 +29,8 @@ The top artists for the average 64-year-old listener include a mix of currently 
 
 ## Concept
 ### Problem Domain
+Music offers a multitude of benefits for people of every age, particularly for the elderly population. It works as a therapy to increase memory function, relax the body, reduce muscle tension and boost productivity. Our idea is to create a music app especially for elders to help them listen to music and share their experience with the people .Along with app , we have created a spinner to help elders to meet people.It helps them recover from loneliness. Sharing stories with others gives them courage to live life when they feel being accepted and respected.Recalling memories with music can thus help them recover their speech and also overcome dementia by recalling music and stories. Singing and recording  music will  allow self-expression by sharing that with their community. The other users of the app could be the listeners who like old songs. For elders listening to music can relieve them from boredom. While listening to music , tapping foot or clapping with rhythm encourages movement. The other benefit that can be reaped is creating a large social network and recalling and sharing stories associated with the songs.Our idea to create app that help elders listen to music and create events to meet people to share stories related to the music and listen to others.
+
 
 
 ### Demographic
