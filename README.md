@@ -143,7 +143,7 @@ As we are required to design app , we must know what apps are being used by our 
 Our design journey started with designing various Paper Prototypes and then selecting one out of them that is close to our requirements.
 
 ## Interview & Prototypes
-Totally 2 interviews and 4 prototypes were conducted during the project MusicLife and our team had changed our original idea dramatically based on the receiving feedbacks from the prototypes and interviews.According to the difference between the previous concept and current concept, we split the whole design process into following stages.
+Totally 2 Testing Sessions and 4 prototypes were conducted during the project MusicLife and our team had changed our original idea dramatically based on the receiving feedbacks from the prototypes and interviews.According to the difference between the previous concept and current concept, we split the whole design process into following stages.
 ### Stage 1
 At this stage, our concept is a mobile application only, allowing seniors to share their music and the application is still a draft.Hence, we designed the first interview and paper prototype at the same time in order to figure out if the application usability is high among seniors and what kind of application or application style design they preferred.Following is the brief summary of the first interview and paper prototype:
 
@@ -176,7 +176,8 @@ At first, we decided to use a digital spinner, however, the interview said they 
 ### Stage 6:
 The app was told that it cannot see the music part by tutor, it is too deep in the app to find out, so we make it clear to see it.
 
-
+## Conclusion
+Music is at everyone's heart. Elders like to keep themselves busy by playing games, listening to music, gardening ,cooking etc. They like to meet people and talk to them. Being away from family,friends and children sometimes feels painful.They need someone to talk and listen to them. MusicLife App gives them an opportunity to meet people and grow socially and emotionally.It has very easy interactions that does not require them to learn to use.Elders listen to music of their time and thatt too categorised according to mood. They get a chance to meet people with the same mood and near to them.MusicLife works as a therapy to promote happiness and friendship among elders.They can find their happiness in others happiness and encourage each other when they are sad.It definetly brings in music of care and share into their lives.
 
 ## References
 Hays, T. and Minichiello, V. (2005). The meaning of music in the lives of older people: a qualitative study. Psychology of Music, 33(4), pp.437-451.
