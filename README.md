@@ -138,7 +138,7 @@ As we are required to design app , we must know what apps are being used by our 
 ![Story](https://github.com/deco3500-2017/Genius/blob/master/board2.png)
 
 ## Work in progress on Poster ##
-![Poster](https://github.com/deco3500-2017/Genius/blob/master/poster.png)
+![Poster](https://github.com/deco3500-2017/Genius/blob/master/musiclife-poster.jpg)
 
 Our design journey started with designing various Paper Prototypes and then selecting one out of them that is close to our requirements.
 
