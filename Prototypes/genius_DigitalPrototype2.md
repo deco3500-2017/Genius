@@ -22,14 +22,15 @@ Breif introduction about the prototype
 ## Testing results
 Lu Explain where did it took place, who was involved
 
-### Interface design
- The spinner was very simple and clear to them. They all enjoyed playing music, recording their voice and then playing it. They all believed that it was easy. The labels make sense and create no confusion. The like button is obvious to like others stories or music.Play music plays music and like in radio they press same button to turn on and off. They enjoyed interacting with it physically . I asked them what if it has been projected on a wall and they have to select using a device. They all said that they are not very keen to learn new technology.They want to do something that looks familiar and does not involve learning.
- 
- App was though little confusing.One of them suggested to remove the features of uploading  images and videos as it will again involve learning to first save them in mobile and then  uploading it. She suggested that during event they can bring along and show it to all.Also , taking turns on spinner was not clear to them. One of them suggested to display the name on spinner for turn taking. When booking for event, we input our name ,that name should be displayed on spinner.
- 
 
-### Concept Idea
+In our discussion of the group, we decided to simplify the function of this turntable. So remove some of the cumbersome options and details. This makes it easier for older people to use.
 
+ ## User feedbacks 
+In the interview to the three old people, they are on the appearance of the spinner design are more satisfied, but the elderly hope that if more makes the interface more concise will be better.
+
+"I like the spinner of your design, but it is better if you can be more concise, such as the area on each part of the keyboard is too much."
+
+### design concept
 
 The old people expressed a high interest in our idea, and they expressed their willingness to participate in the spinner. But at the same time, they also have some confusion about this design. For example, if the choice of songs is not what they are interested or familiar with how to do? How do I join this event? Is it necessary to register or join?
 
@@ -39,17 +40,10 @@ The old people expressed a high interest in our idea, and they expressed their w
 
 ### Functional design
 
-Our group's original design concept was to use the mini projecter to project the spinner; the idea can make the elderly anytime, anywhere in any occasion to use. But the old man does not like the idea very much.
+Our group's original design concept is to use the mini project to project the spinner; the idea can make the elderly anytime, anywhere in any occasion to use. But the old man does not like the idea very much.
 
 "I would prefer to be able to touch the physical device, such as mahjong, poker, and so on, compared to the projector."
 "The physical equipment will make me more comfortable to use." The projector make me feel that the operation is not particularly comfortable.
 
-## Feedbacks from Standups
-* Current prototype design doesn't look like an actual product and looks more like an application mockup as no examples are given.For example, it displays "xxx" at the event page and it's hard to understand the concept without the explanations.
-* This application is related to music but music content has hidden so deep in the application.The application is more like an event platform rather than a music application.
-
-## Test Results Summary
+## Summary
 According to the testing result we collected,the spinner idea is working as most of the seniors thought the idea is interesting and expressed a willingness of try.As the spinner is physical and it is a normal daily item,seniors indicated that they feel more comfortable while using it.However,the idea of the spinner concept is not perfect and it lacks of details which result in confusions.To implement the spinner concept better,some of the seniors suggested to simplify the spinner interface.For example,is it neccessary to include the songs in the spinner because therehave some possibilities that seniors are not interested at the provided song.In addition,elderlys dislike complex applications and it's important for the team to consider about how to make both of application and spinner easy to use and navigate.
-
-
-
