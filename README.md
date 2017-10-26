@@ -27,6 +27,7 @@ According to the interview, we had found that the seniors love to share their st
 
 ## Design Process
 https://github.com/deco3500-2017/Genius/blob/master/genius_Process%20for%20Music%20APP-%20stage%201.md
+https://github.com/deco3500-2017/Genius/blob/master/genius_process%20for%20Event%20Spinner.md
 
 
 ## Decisions 
