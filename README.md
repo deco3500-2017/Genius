@@ -4,11 +4,11 @@
 MusicLife is an application that aims to provide a social platform for elders to share their life story or music experience with other people through  physical events.As music has a strong connection with human memory, music will be used as a support tool to help seniors recalling their memory and also as an ice-breaking tool.Since human beings are actually the witness of the development of human society, the life story or music experience of every human being is valuable for researchers on teasing out the development of human society and saving some traditional music.By doing this, seniors can still contribute to current society and find out their values.
 
 ## Research
-
+https://github.com/deco3500-2017/Genius/blob/master/research.md
 
 
 ## Concept
-
+https://github.com/deco3500-2017/Genius/blob/master/concept.md
 
 ## Interview & Prototypes
 Totally 2 Testing Sessions and 4 prototypes were conducted during the project MusicLife and our team had changed our original idea dramatically based on the receiving feedbacks from the prototypes and interviews.According to the difference between the previous concept and current concept, we split the whole design process into following stages.
