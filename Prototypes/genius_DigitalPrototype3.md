@@ -1,3 +1,6 @@
+# Introduction
+This is an improved version developed based on the feedback from testings on prototype 1 and 2. Based on Feedback from previous test results, this prototype lets elders share their stories and experiences face to face. It gets too complicated for them to share online and also does not inspire a lot sharing and thus does not cheer them up too.This prototype helps them join other people, talk too them , share their experiences, listen to music together and share stories with each other.As people of same mood gel along, they all motivate each other. If you feel others pain. you try to encourage them and so does the others. Everyone listen to each other and try to motivate each other thus helping each other growing emotionally and socially.
+
 ![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/Homepage.png)
 ![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/Event%20Gallery%20-%20happy.png)
 ![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/View%20Event.png)
