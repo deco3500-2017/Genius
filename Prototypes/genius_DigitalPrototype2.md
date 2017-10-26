@@ -1,20 +1,17 @@
 # Introduction
 Breif introduction about the prototype 
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/Home%20page.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/Second%20Page.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/Android%20Mobile%20%E2%80%93%202.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/Android%20Mobile%20%E2%80%93%203.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/Android%20Mobile%20%E2%80%93%204.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/Android%20Mobile%20%E2%80%93%206.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/Android%20Mobile%20%E2%80%93%207.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/Android%20Mobile%20%E2%80%93%205.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/Android%20Mobile%20%E2%80%93%201.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/my%20favourite.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/my%20favourite%202.png
 
-![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/Homepage.png)
-![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/Event%20Gallery%20-%20happy.png)
-![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/View%20Event.png)
-![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/Join%20Event.png)
-![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/Create%20Event.png)
-![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/Add%20Images.png)
-![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/My%20Page.png)
-![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/My%20Like.png)
-![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/My%20Event.png)
-![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/My%20Event%202.png)
-![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/Delete%20event.png)
-![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/Delete.png)
-
-## Spinner Design
 ![Spinner]https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/eventprototype.jpeg
 
 
