@@ -26,7 +26,7 @@ In this stage,our team conducted 1 interview and 3 prototypes to implement our n
 According to the interview, we had found that the seniors love to share their stories with other people, no matter strangers or not unless they show the respect of them.Also, the participants express their preference on sharing the experience through face-to-face rather than online as they indicated that body languages and eye contacts can help explaining their experience better.Based on the collected results, we found that the spinner idea is better than the previous but it still needs further details.Hence, we conducted another two prototypes that aim to figure out the spinner design.The results of the first prototype reflected that the spinner idea is great but the interface design of spinner is too complicated.Hence, we change the spinner design to only include play music, record and likes buttons.However, both of the results show that our spinner idea is not fully implemented as the music content is hidden so deep in the application.It's hard to understand what the application is used for with explanation.
 
 ## Design Process
-
+https://github.com/deco3500-2017/Genius/blob/master/genius_Process%20for%20Music%20APP-%20stage%201.md
 
 
 ## Decisions 
