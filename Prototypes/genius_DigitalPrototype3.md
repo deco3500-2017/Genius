@@ -29,3 +29,29 @@ The old people at Estia Age care meet during morning time everyday or during mov
 
 ## Summary
 The overall spinner idea is interesting and it's new for the seniors having this application to share the experience with other people based on the testing results.This means MusicLife has a high developing potential and it might attract our target users to use it.Compared the newest spinner design with the older version, our team had found out current design with play music, record and likes button is easy enough for users to navigate it.However, not only the users but Lorna as well had mentioned that current application design is not fully implemented as the music content is hidden so deep and it doesn't reflect that this application is used for sharing the experience of music which cause the confusions.To make the application more music related,we might need to bring out the music square first rather than event square.For example,after chosing the desired emotion to start sharing,music related to selected emotion should be displayed like a post and allowing people to listen to that pieces at the application.
+
+
+In our discussion of the group, we decided to simplify the function of this turntable. So remove some of the cumbersome options and details. This makes it easier for older people to use.
+
+ ## User feedbacks 
+In the interview to the three old people, they are on the appearance of the spinner design are more satisfied, but the elderly hope that if more makes the interface more concise will be better.
+
+"I like the spinner of your design, but it is better if you can be more concise, such as the area on each part of the keyboard is too much."
+
+### design concept
+
+The old people expressed a high interest in our idea, and they expressed their willingness to participate in the spinner. But at the same time, they also have some confusion about this design. For example, if the choice of songs is not what they are interested or familiar with how to do? How do I join this event? Is it necessary to register or join?
+
+"Your idea is very interesting, but in my opinion, I do not really understand how you achieve these functions."
+"I think your design needs to be perfect because a lot of content makes me feel there is room for improvement and possible."
+"Interesting but also confuse."
+
+### Functional design
+
+Our group's original design concept is to use the mini project to project the spinner; the idea can make the elderly anytime, anywhere in any occasion to use. But the old man does not like the idea very much.
+
+"I would prefer to be able to touch the physical device, such as mahjong, poker, and so on, compared to the projector."
+"The physical equipment will make me more comfortable to use." The projector make me feel that the operation is not particularly comfortable.
+
+## Summary
+According to the testing result we collected,the spinner idea is working as most of the seniors thought the idea is interesting and expressed a willingness of try.As the spinner is physical and it is a normal daily item,seniors indicated that they feel more comfortable while using it.However,the idea of the spinner concept is not perfect and it lacks of details which result in confusions.To implement the spinner concept better,some of the seniors suggested to simplify the spinner interface.For example,is it neccessary to include the songs in the spinner because therehave some possibilities that seniors are not interested at the provided song.In addition,elderlys dislike complex applications and it's important for the team to consider about how to make both of application and spinner easy to use and navigate.
