@@ -36,6 +36,7 @@ She is an opera lovers, every day will spend a lot of time, keep in front of the
 
 
 *Interview 5:* Jan is a 67 year old woman. She has worked as a language teacher at QUT. She has no children. She is now using the phone is the iPhone 5, has been used for several years, but she still can not understand a lot of features. She used the function is: take pictures, send text messages and call. She does not know how to use the phone to listen to music. She usually likes to buy music CDs and listen to music at home through sound. She likes the type of music is the symphony, because she has to symphony concert hobbies. Her husband is also loyal to accompany her to listen to the concert.
+https://github.com/deco3500-2017/Genius/blob/master/themes.png
 
 
 ## Summary
