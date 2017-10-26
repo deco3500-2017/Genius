@@ -20,9 +20,14 @@ According to the collected responses from seniors, we had found that the seniors
 In terms of interface design, seniors actually didn't care about if the interface is fancy or not, they more concerned on the big buttons with clear identification.For example, a big square button with big text in it is fine for the seniors as they know what they should do for the buttons.Also,to make it more easier to navigate,simple motions can be used as gestures for the application such as clicking & dragging.However,the questions we asked during the first interview and paper prototype is on the wrong track,as the main point of the application is to allowing seniors sharing music/life experiences.
 
 ### Stage 2
+
 In this stage,our team conducted 1 interview and 3 prototypes to implement our new spinner concept and following is the brief summary of them:
 
 According to the interview, we had found that the seniors love to share their stories with other people, no matter strangers or not unless they show the respect of them.Also, the participants express their preference on sharing the experience through face-to-face rather than online as they indicated that body languages and eye contacts can help explaining their experience better.Based on the collected results, we found that the spinner idea is better than the previous but it still needs further details.Hence, we conducted another two prototypes that aim to figure out the spinner design.The results of the first prototype reflected that the spinner idea is great but the interface design of spinner is too complicated.Hence, we change the spinner design to only include play music, record and likes buttons.However, both of the results show that our spinner idea is not fully implemented as the music content is hidden so deep in the application.It's hard to understand what the application is used for with explanation.
+
+## Design Process
+
+
 
 ## Decisions 
 ### Stage 1:
