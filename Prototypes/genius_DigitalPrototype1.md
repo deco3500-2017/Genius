@@ -1,4 +1,4 @@
-)
+
 
 ### Digital Prototype ###
 
@@ -13,7 +13,7 @@ This is our first Digital Prototype created using experience design.Our aim was 
 ![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/Android%20Mobile%20%E2%80%93%205.png)
 ![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/Android%20Mobile%20%E2%80%93%201.png)
 ![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/my%20favourite.png)
-![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/my%20favourite%202.png
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/my%20favourite%202.png)
 
 ### Testing Plan ###
 ***Users:*** Elders at Brisbane Square Library on 29/09/2017.
