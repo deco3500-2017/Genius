@@ -1,8 +1,8 @@
-
-#Interviews with our first digital Prototype
+ 
+# Interviews with our first digital Prototype
 
 **Introduction**
-The interviews were conducted on 29/09/2017 at Brisbane Square library with three elders.Our team created or first digital prototype  with the screens elaborating the process to share and read stories related to the music. The interviews were conducted to research if elders prefer sharing their stories online or face to face.To progress with the additional features that let user create events and share their stories with other peolpe, it was necessary to know if elders like to talk to strangers and how important is being social in their lives.The aim of interviews was to find out what will help them develop relationships and getting social with strangers through music.
+The interviews were conducted on 29/09/2017 at Brisbane Square library with three elders.Our team created or first digital prototype (https://github.com/deco3500-2017/Genius/blob/master/Prototypes/genius_DigitalPrototype1.md) with the screens elaborating the process to share and read stories related to the music. We performed user test with the people to collect their views about the interface and also interviews were conducted to research if elders prefer sharing their stories online or face to face.As our team was thinking to create a platform to help elders meet each other ,we wanted to have an additional features to let user create and join events. To  let user create events and share their stories with other peolpe, it was necessary to know if elders like to talk to strangers and how important is being social in their lives.The aim of interviews was to find out what will help them develop relationships and getting social with strangers through music.
 # Questions
 * Do you listen to music at your free time?
 * What kind of music do you preferred?
@@ -39,5 +39,8 @@ Mr.Badi, an Indonesian Chinese who is at the age around 68 said he didn't listen
 
 ## Result Summary
 From the second interview we did during the mid-break, we had found that the majority of the seniors are open-minded people and they love to share their stories to those people who will respect them and have the same interest and they don't mind talking with strangers.A lot of participants agreed that music had a strong power on people and some pieces of music can remind their related memory to that music which they wanted to share with other people.During the interview, we also found that the preferred way of story sharing among elderly is face-to-face communication as body language and eye contacts help a lot to explain their feelings.Besides, some participants expressed they are not a fan of being social but they would like to read the story of other people from books or online and they preferred talking with those people who are in the same community as themselves.
+### Results of Prototype 
+https://github.com/deco3500-2017/Genius/blob/master/Prototypes/genius_DigitalPrototype1.md
+
 
 
