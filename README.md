@@ -21,14 +21,19 @@ In terms of interface design, seniors actually didn't care about if the interfac
 
 Paper Prototype: https://github.com/deco3500-2017/Genius/blob/master/Prototypes/genius_PaperPrototypes.md
 
+Interview 1: https://github.com/deco3500-2017/Genius/blob/master/Interviews/genius_interview1.md
+
 ### Stage 2
 In this stage,our team conducted 1 interview and 3 prototypes to implement our new spinner concept and following is the brief summary of them:
 
 According to the interview, we had found that the seniors love to share their stories with other people, no matter strangers or not unless they show the respect of them.Also, the participants express their preference on sharing the experience through face-to-face rather than online as they indicated that body languages and eye contacts can help explaining their experience better.Based on the collected results, we found that the spinner idea is better than the previous but it still needs further details.Hence, we conducted another two prototypes that aim to figure out the spinner design.The results of the first prototype reflected that the spinner idea is great but the interface design of spinner is too complicated.Hence, we change the spinner design to only include play music, record and likes buttons.However, both of the results show that our spinner idea is not fully implemented as the music content is hidden so deep in the application.It's hard to understand what the application is used for with explanation.
 
 Digital Prototype 1: https://github.com/deco3500-2017/Genius/blob/master/Prototypes/genius_DigitalPrototype1.md
+
 Digital Prototype 2: https://github.com/deco3500-2017/Genius/blob/master/Prototypes/genius_DigitalPrototype2.md
+
 Digital Prototype 3: https://github.com/deco3500-2017/Genius/blob/master/Prototypes/genius_DigitalPrototype3.md
+
 Digital Prototype 4: https://xd.adobe.com/view/88db3b06-88db-4285-b189-327b1e46002c
 
 
