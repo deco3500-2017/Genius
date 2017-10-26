@@ -10,7 +10,7 @@ Breif introduction about the prototype
 ![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/Android%20Mobile%20%E2%80%93%205.png)
 ![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/Android%20Mobile%20%E2%80%93%201.png)
 ![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/my%20favourite.png)
-![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/my%20favourite%202.png
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/my%20favourite%202.png)
 
 ![Spinner]https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/eventprototype.jpeg
 
