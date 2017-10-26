@@ -44,7 +44,7 @@ Digital Prototype 4: https://xd.adobe.com/view/88db3b06-88db-4285-b189-327b1e460
 https://github.com/deco3500-2017/Genius/blob/master/genius_Process%20for%20Music%20APP-%20stage%201.md
 
 ### Process for Event Spinner
-https://github.com/deco3500-2017/Genius/blob/master/genius_process%20for%20Event%20Spinner.md
+https://github.com/deco3500-2017/Genius/blob/master/genius_process%20for%20Event%20Spinner-stage%202.md
 
 
 ## Decisions 
