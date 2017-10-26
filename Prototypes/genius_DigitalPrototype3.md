@@ -8,8 +8,9 @@
 ![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/My%20Like.png)
 ![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/My%20Event.png)
 ![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/My%20Event%202.png)
-![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/Delete%20Event.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/Delete%20event.png)
 ![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/Delete.png)
+![image](https://github.com/deco3500-2017/Genius/blob/master/IMG_7458.JPG)
 ## Testing results
 ![testing](https://github.com/deco3500-2017/Genius/blob/master/testingatagecare.png)
  The testing session was held at Estia Health Gold Coast with three adults og age 72,80 and 85. All of them were given app to interact and then the spinner to play with. I explained them the aim of our project but didnot explained the meaning of buttons and images used in our interface design to see if they can understand by themselves without explaining. The results gathered have been listed below: 
