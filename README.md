@@ -62,18 +62,3 @@ Another interview and prototype is coducted during the mid-break in order to tes
 
 ## Conclusion
 Music is at everyone's heart. Elders like to keep themselves busy by playing games, listening to music, gardening ,cooking etc. They like to meet people and talk to them. Being away from family,friends and children sometimes feels painful.They need someone to talk and listen to them. MusicLife App gives them an opportunity to meet people and grow socially and emotionally.It has very easy interactions that does not require them to learn to use.Elders listen to music of their time and thatt too categorised according to mood. They get a chance to meet people with the same mood and near to them.MusicLife works as a therapy to promote happiness and friendship among elders.They can find their happiness in others happiness and encourage each other when they are sad.It definetly brings in music of care and share into their lives.
-
-## References
-Hays, T. and Minichiello, V. (2005). The meaning of music in the lives of older people: a qualitative study. Psychology of Music, 33(4), pp.437-451.
-
-Lisa J. Lehmberg & C. Victor Fung. (2010). Benefits of Music Participation for Senior Citizens: A Review of the Literature. Music Education Research International, Volume 4.
-
-Anon, (2015). Communications report 2013-14 series Report 1 - Australians’ digital lives. [online] Available at: https://engage.dss.gov.au/wp-content/uploads/2015/12/Australian-Wagering-Council-Attachment-B-3.pdf.
-
-Kane, R. (2001). Long-Term Care and a Good Quality of Life. The Gerontologist, 41(3), pp.293-304.
-
-Music Machinery. (2017). Exploring age-specific preferences in listening. [online] Available at: https://musicmachinery.com/2014/02/13/age-specific-listening/.
-
-En.wikipedia.org. (2017). Old age. [online] Available at: https://en.wikipedia.org/wiki/Old_age.
-
-Sacks, O. (2007). Musicophilia : Tales of music and the brain (1st ed.). New York: Alfred A. Knopf.
