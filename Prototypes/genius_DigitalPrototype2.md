@@ -10,9 +10,11 @@
 ![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/My%20Event%202.png)
 ![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/Delete%20event.png)
 ![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/Delete.png)
+
+## Spinner Design
 ![image](https://github.com/deco3500-2017/Genius/blob/master/IMG_7458.JPG)
 
-# Spinner Used:
+
 
 ## Testing results
 ![testing](https://github.com/deco3500-2017/Genius/blob/master/testingatagecare.png)
@@ -51,4 +53,3 @@ According to the testing result we collected,the spinner idea is working as most
 The overall spinner idea is interesting and it's new for the seniors having this application to share the experience with other people based on the testing results.This means MusicLife has a high developing potential and it might attract our target users to use it.Compared the newest spinner design with the older version, our team had found out current design with play music, record and likes button is easy enough for users to navigate it.However, not only the users but Lorna as well had mentioned that current application design is not fully implemented as the music content is hidden so deep and it doesn't reflect that this application is used for sharing the experience of music which cause the confusions.To make the application more music related,we might need to bring out the music square first rather than event square.For example,after chosing the desired emotion to start sharing,music related to selected emotion should be displayed like a post and allowing people to listen to that pieces at the application.
 
 
-e.
