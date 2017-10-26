@@ -19,3 +19,12 @@ In fact, our brains are hardwired to connect music with long-term memory.Even fo
 15% of elderly whose are 65 years old or above in the USA has used streaming music app to listen to music. Compare to 13-34 years old age group, they have around 40-50% of the population that will use music streaming apps to listen to music. But still, 15% is still a massive number in the elderly population.(Music Machinery, 2017)
 
 The top artists for the average 64-year-old listener include a mix of currently popular artists along with a number of artists from years gone by ((Music Machinery, nd), however, the article pointed out that 13 years old listener only listen to current artist, which means elderly have more acceptance to the modern music.(Music Machinery, 2017)
+
+### Reference
+Hays, T. and Minichiello, V. (2005). The meaning of music in the lives of older people: a qualitative study. Psychology of Music, 33(4), pp.437-451.
+Lisa J. Lehmberg & C. Victor Fung. (2010). Benefits of Music Participation for Senior Citizens: A Review of the Literature. Music Education Research International, Volume 4.
+Anon, (2015). Communications report 2013-14 series Report 1 - Australians’ digital lives. [online] Available at: https://engage.dss.gov.au/wp-content/uploads/2015/12/Australian-Wagering-Council-Attachment-B-3.pdf.
+Kane, R. (2001). Long-Term Care and a Good Quality of Life. The Gerontologist, 41(3), pp.293-304.
+Music Machinery. (2017). Exploring age-specific preferences in listening. [online] Available at: https://musicmachinery.com/2014/02/13/age-specific-listening/.
+En.wikipedia.org. (2017). Old age. [online] Available at: https://en.wikipedia.org/wiki/Old_age.
+Sacks, O. (2007). Musicophilia : Tales of music and the brain (1st ed.). New York: Alfred A. Knopf.
