@@ -31,7 +31,7 @@ Tutor gave us a lot of suggestions. We intend to follow our tutor's advice for o
 Paper Prototype II
 Through the group discussion, and summed up the results of various feedback, we improved the prototype.
 
-![image](https://github.com/deco3500-2017/Genius/blob/master/interface.pdf)
+![pdf](https://github.com/deco3500-2017/Genius/blob/master/interface.pdf)
  
 Then we also made a digital prototype, began a new round of user testing. In the course of the test we found a huge problem.
 
