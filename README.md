@@ -25,7 +25,6 @@ Interview 1: https://github.com/deco3500-2017/Genius/blob/master/Interviews/geni
 
 ### Stage 2
 In this stage,our team conducted 1 interview and 3 prototypes to implement our new spinner concept and following is the brief summary of them:
-
 According to the interview, we had found that the seniors love to share their stories with other people, no matter strangers or not unless they show the respect of them.Also, the participants express their preference on sharing the experience through face-to-face rather than online as they indicated that body languages and eye contacts can help explaining their experience better.Based on the collected results, we found that the spinner idea is better than the previous but it still needs further details.Hence, we conducted another two prototypes that aim to figure out the spinner design.The results of the first prototype reflected that the spinner idea is great but the interface design of spinner is too complicated.Hence, we change the spinner design to only include play music, record and likes buttons.However, both of the results show that our spinner idea is not fully implemented as the music content is hidden so deep in the application.It's hard to understand what the application is used for with explanation.
 
 Interview 2: https://github.com/deco3500-2017/Genius/blob/master/Interviews/genius_interview2.md
@@ -66,6 +65,19 @@ Based on the receiving feedbacks from seniors, most of the seniors express their
 To make the application easier to use, our team decided to provide online music services only and the idea of using emoji as a category is changed to using text only to separate different kinds of music. Hence, the seniors can know what kinds of music experience they are interested in easily.
  
 Moreover, the purpose of our application is letting seniors share their life experience or experience on music to the strangers to contribute to current society. Our team decided to focus on the sharing aspect, but what we are concerned about is the way of sharing music/life experience. In terms of daily observation, the normal way of application sharing is posting online or leaving comments. But these kinds of ways are more used by younger generation rather than seniors. The seniors might have a huge different preference on mobile sharing. To improve the application usability, it's important to find out the sharing habits of seniors. Hence, another interview is designed to figure out what would be the best way for elderly to sharing their stories. Although the seniors indicated that they don't mind the interface design is ugly, our team still believed a clean layout design will guarantee a better user experience. Thus, in the aspect of application interface design, our team is more focus on placing elements such as buttons and tabs orderly and logically and adjusting sizes to create a clean and logic application interface. 
+
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/Homepage.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/Event%20Gallery%20-%20happy.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/View%20Event.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/Join%20Event.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/Create%20Event.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/Add%20Images.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/My%20Page.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/My%20Like.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/My%20Event.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/My%20Event%202.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/Delete%20event.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/Delete.png)
  
  ### Stage 2:
 Base on the user testing at the stage 2, we found out actually most of the senior is not interested in listening music, they prefer meet each other in physically. Therefore, we have changed our idea to an app that can create event and let others join. The event to let senior gathering together and share their own stories. Nevertheless, we changed our prototype to select your current emotion instead of choosing music catalog.Furthermore,we need to decide how the prototype will be done. First of all, we have sketched the paper prototype to have a rough design. After that, we need to find out which application is suitable for our team to make the digital prototype. We have few choices include Adobe XD, sketches, inVision and Unity, and our team has difficulty to make a choice between these apps because we require an app that is functional and interactive. After our tutors gave us the feedback, we decided to use Adobe XD to make the prototype base on the low learning curve and easy to use. 
