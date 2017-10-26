@@ -1,19 +1,19 @@
-
+)
 
 ### Digital Prototype ###
 
 This is our first Digital Prototype created using experience design.Our aim was to design an interface that help elders to listen to music of their time ie popular during their childhood or young age with probability to have memories along with it. It allows users to listen to music and share their memories or experiences with others. Also it helps users to upload any picture they want to share as part of their memories with others.The layout of our prototype was :
-
-![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/Android%20Mobile%20%E2%80%93%201.png)
-![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/Android%20Mobile%20%E2%80%93%202.png)
-![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/Android%20Mobile%20%E2%80%93%203.png)
-![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/Android%20Mobile%20%E2%80%93%204.png)
-![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/Android%20Mobile%20%E2%80%93%205.png)
-![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/Home%20page.png)
-![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/Second%20Page.png)
-
-
-
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/Home%20page.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/Second%20Page.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/Android%20Mobile%20%E2%80%93%202.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/Android%20Mobile%20%E2%80%93%203.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/Android%20Mobile%20%E2%80%93%204.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/Android%20Mobile%20%E2%80%93%206.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/Android%20Mobile%20%E2%80%93%207.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/Android%20Mobile%20%E2%80%93%205.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/Android%20Mobile%20%E2%80%93%201.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/my%20favourite.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img1/my%20favourite%202.png
 
 ### Testing Plan ###
 ***Users:*** Elders at Brisbane Square Library on 29/09/2017.
