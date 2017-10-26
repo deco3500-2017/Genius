@@ -20,9 +20,13 @@ According to the collected responses from seniors, we had found that the seniors
 In terms of interface design, seniors actually didn't care about if the interface is fancy or not, they more concerned on the big buttons with clear identification.For example, a big square button with big text in it is fine for the seniors as they know what they should do for the buttons.Also,to make it more easier to navigate,simple motions can be used as gestures for the application such as clicking & dragging.However,the questions we asked during the first interview and paper prototype is on the wrong track,as the main point of the application is to allowing seniors sharing music/life experiences.
 
 Paper Prototype: https://github.com/deco3500-2017/Genius/blob/master/Prototypes/genius_PaperPrototypes.md
+
 Digital Prototype 1: https://github.com/deco3500-2017/Genius/blob/master/Prototypes/genius_DigitalPrototype1.md
+
 Digital Prototype 2: https://github.com/deco3500-2017/Genius/blob/master/Prototypes/genius_DigitalPrototype2.md
+
 Digital Prototype 3: https://github.com/deco3500-2017/Genius/blob/master/Prototypes/genius_DigitalPrototype3.md
+
 Digital Prototype 4: https://xd.adobe.com/view/88db3b06-88db-4285-b189-327b1e46002c
 
 ### Stage 2
