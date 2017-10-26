@@ -33,6 +33,7 @@ https://github.com/deco3500-2017/Genius/blob/master/genius_Process%20for%20Music
 ### Process for Event Spinner
 https://github.com/deco3500-2017/Genius/blob/master/genius_process%20for%20Event%20Spinner.md
 
+
 ## Decisions 
 ### Stage 1:
 At the beginning after the team is formed, we were interested in the educational apps that have translate function and learn new language. However, after we did a lot of discussion and shared our idea, we find out something more interested then the translation app. At last, we decided to do a app that can share music and your own story for elderly.Hence,we conducted the first interview and prototype to find out their needs.
