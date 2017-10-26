@@ -41,6 +41,10 @@ Feedback from users II
 	“Compared to the use of smart phones to listen to music, I am more accustomed to listening to music on television.”
 	“Take the radio to listen to music is the way I used to, mobile phone software for me is too difficult.”
 
+Feedback from tutor II
+We do the prototype, when filling in the contents of the information, all with XXXXXX instead of specific content, then tutor made a very meaningful suggestion that all the XXXX into specific content, because it can be more real, But also more professional.
+
+
 Summary
 
 According to our group's repeated discussions, user feedback and follow the tutor's advice. We decided to completely put our original idea of designing app into a more suitable to meet the habits of the elderly equipment.
