@@ -8,7 +8,7 @@
 ![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/My%20Like.png)
 ![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/My%20Event.png)
 ![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/My%20Event%202.png)
-![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/Delete%20Event.png)
+![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/Delete%20event.png)
 ![prototype](https://github.com/deco3500-2017/Genius/blob/master/DigitalPrototype/img2/Delete.png)
 ## Testing results
 ![testing](https://github.com/deco3500-2017/Genius/blob/master/testingatagecare.png)
